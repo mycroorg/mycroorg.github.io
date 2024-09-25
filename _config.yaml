@@ -77,3 +77,4 @@ exclude:
 
 languages: ["en", "es"]
 exclude_from_localizations: ["images"]
+default_locale_in_subfolder: true
