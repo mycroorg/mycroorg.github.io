@@ -72,3 +72,8 @@ exclude:
   - README.md
   - LICENSE.md
   - CITATION.cff
+
+# multiple languages plugin
+
+languages: ["en", "es"]
+exclude_from_localizations: ["images"]
