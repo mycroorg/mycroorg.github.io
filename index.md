@@ -1,11 +1,8 @@
 ---
 ---
 
-# MYCROORG
-
+# fungi and yeasts of interest in agri-foods
 {% include section.html %}
-
-## Highlights
 
 {% capture text %}
 
