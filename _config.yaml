@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: mycroorgDESCRIPTION=An engaging 1-3 sentence description of your lab.
+title: MYCROORG
 subtitle: 
 description: 
 header: images/background.jpg
@@ -8,12 +8,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@mycroorgDESCRIPTION=An engaging 1-3 sentence description of your lab..com
+  email: contact@mycroorg.com
   orcid: 0000-0001-8713-9213
   google-scholar: ETJoidYAAAAJ
-  github: mycroorgDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: mycroorgDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  youtube: mycroorgDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  github: mycroorg
+  twitter: mycroorg
+  youtube: mycroorg
 
 ### jekyll settings
 
@@ -50,7 +50,6 @@ plugins:
   - jekyll-redirect-from
   - jekyll-feed
   - jekyll-last-modified-at
-  - jekyll-multiple-languages-plugin
 
 # code block syntax highlighting
 highlighter: rouge
@@ -72,8 +71,3 @@ exclude:
   - README.md
   - LICENSE.md
   - CITATION.cff
-
-# multiple languages plugin
-
-languages: ["en", "es"]
-exclude_from_localizations: ["images"]
