@@ -1,4 +1,4 @@
 ---
 ---
 
-{% translate_file theindex.md %}
+{% translate_file index.md %}
