@@ -1,7 +1,7 @@
 ---
 ---
 
-# MYCROORG ({% translate global.tagline %})
+# MYCROORG
 
 {% include section.html %}
 
@@ -77,11 +77,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our Team"
   text=text
 %}
-
-{% if site.lang == "en" %}
-  {% capture link1 %}{{ site.baseurl_root }}/es{{ page.url}}{% endcapture %}
-  <a href="{{ link1 }}" >Español</a>
-{% elsif site.lang == "es" %}
-  {% capture link2 %}{{ site.baseurl_root }}{{ page.url}}{% endcapture %}
-  <a href="{{ link2 }}" >English</a>
-{% endif %}
