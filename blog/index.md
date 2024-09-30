@@ -1,8 +1,12 @@
 ---
 title: Blog
+title_es: Blog
 nav:
   order: 4
   tooltip: Musings and miscellany
+  tooltip_es: Reflexiones y miscelánea
+permalink: /blog/
+permalink_es: /posts/
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog

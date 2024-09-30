@@ -1,8 +1,83 @@
 ---
 ---
 
-#  fungi and yeasts of interest in agri-foods
+#  {% translate mainpage.thetitle %}
 {% include section.html %}
+
+{% if site.lang == "es" %}
+
+{% capture text %}
+
+Los hongos son el centro de nuestra investigación. Buscamos comprender la biología y la genética de los hongos filamentosos toxígenos y fitopatógenos, así como de levaduras de interés industrial.
+
+{%
+  include button.html
+  link="investigacion"
+  text="Nuestras publicaciones"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/main_page/aspergillus.jpg"
+  link="inevstigacion"
+  title="🔬  Investigación"
+  text=text
+%}
+
+{% capture text %}
+
+Nuestro trabajo incluye artículos científicos, proyectos, contratos con empresas y colaboraciones con otros grupos nacionales e internacionales. Pero no nos quedamos ahí. También somos conscientes de la importancia de la divulgación científica, y trabajamos para hacerla accesible y para todos los públicos.
+
+{%
+  include button.html
+  link="proyectos"
+  text="Echa un vistazo"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/main_page/otra_levadura.jpg"
+  link="proyectos"
+  title="💡  Proyectos y divulgación"
+  flip=true
+  style="bare"
+  text=text
+%}
+
+{% capture text %}
+
+Somos un grupo dinámico de investigadores, desde estudiantes hasta profesores experimentados, unidos por el fascinante mundo de los hongos. Nuestro enfoque colaborativo contribuye a resolver un reto del mundo real: eliminar las micotoxinas de los alimentos.
+
+{%
+  include button.html
+  link="equipo"
+  text="Conócenos"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/main_page/honguito.jpg"
+  link="equipo"
+  title="👩🏻‍🔬  Quiénes somos"
+  text=text
+%}
+
+{% else %}
 
 {% capture text %}
 
@@ -74,3 +149,5 @@ We are a dynamic group of researchers, ranging from enthusiastic students to exp
   title="👩🏻‍🔬  Our Team"
   text=text
 %}
+
+{% endif %}

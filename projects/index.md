@@ -1,8 +1,12 @@
 ---
 title: Projects
+title_es: Proyectos
 nav:
   order: 2
   tooltip: Tools, teaching, and more
+  tooltip_es: Herramientas, docencia y más
+permalink: /projects/
+permalink_es: /proyectos/
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects

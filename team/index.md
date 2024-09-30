@@ -1,8 +1,12 @@
 ---
 title: Team
+title_es: Equipo
 nav:
   order: 3
   tooltip: About our team
+  tooltip_es: Sobre nosotros
+permalink: /team/
+permalink_es: /equipo/
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
@@ -16,7 +20,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html background="images/levadura.jpg" dark=true %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
