@@ -1,247 +1,1157 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.3390/agriculture13101998
+  title: Reconsidering the Co-Occurrence of Aspergillus flavus in Spanish Vineyards
+    and Aflatoxins in Grapes
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Clara Melguizo
+  - "Bel\xE9n Pati\xF1o"
+  - Antonio J. Ramos
+  - "Covadonga V\xE1zquez"
+  - "J\xE9ssica Gil-Serna"
+  publisher: Agriculture
+  date: '2023-10-14'
+  link: https://doi.org/g6b5ns
+  orcid: 0000-0002-2113-1830
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pub.mdpi-res.com/agriculture/agriculture-13-01998/article_deploy/html/images/agriculture-13-01998-g001.png?1697277512
+- id: doi:10.3390/jof8111136
+  title: Biocontrol of Mycotoxigenic Fungi Using Bacteria Isolated from Ecological
+    Vineyard Soils
+  authors:
+  - Paula de la Huerta-Bengoechea
+  - "J\xE9ssica Gil-Serna"
+  - Clara Melguizo
+  - Antonio J. Ramos
+  - Montserrat Prim
+  - "Covadonga V\xE1zquez"
+  - "Bel\xE9n Pati\xF1o"
+  publisher: Journal of Fungi
+  date: '2022-10-27'
+  link: https://doi.org/g6b5n2
+  orcid: 0000-0002-2113-1830
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pub.mdpi-res.com/jof/jof-08-01136/article_deploy/html/images/jof-08-01136-g001.png?1668073883
+- id: doi:10.3390/toxins14090592
+  title: Searching for the Fusarium spp. Which Are Responsible for Trichothecene Contamination
+    in Oats. Using Metataxonomy to Compare the Distribution of Toxigenic Species in
+    Fields from Spain and the UK
+  authors:
+  - "J\xE9ssica Gil-Serna"
+  - "Bel\xE9n Pati\xF1o"
+  - Carol Verheecke-Vaessen
+  - "Covadonga V\xE1zquez"
+  - "\xC1ngel Medina"
+  publisher: Toxins
+  date: '2022-08-28'
+  link: https://doi.org/g6b5n6
+  orcid: 0000-0002-2113-1830
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pub.mdpi-res.com/toxins/toxins-14-00592/article_deploy/html/images/toxins-14-00592-g003.png?1684152231
+- id: doi:10.3390/toxins13110780
+  title: Role of Sesamia nonagrioides and Ostrinia nubilalis as Vectors of Fusarium
+    spp. and Contribution of Corn Borer-Resistant Bt Maize to Mycotoxin Reduction
+  authors:
+  - "Mar\xEDa Arias-Mart\xEDn"
+  - Miriam Haidukowski
+  - "Gema P. Farin\xF3s"
+  - "Bel\xE9n Pati\xF1o"
+  publisher: Toxins
+  date: '2021-11-04'
+  link: https://doi.org/g6b5pb
+  orcid: 0000-0001-8568-9270
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pub.mdpi-res.com/toxins/toxins-13-00780/article_deploy/html/images/toxins-13-00780-g001.png?1636085013
+- id: doi:10.3390/toxins13090649
+  title: Diversity of Mycobiota in Spanish Grape Berries and Selection of Hanseniaspora
+    uvarum U1 to Prevent Mycotoxin Contamination
+  authors:
+  - "Carolina G\xF3mez-Albarr\xE1n"
+  - Clara Melguizo
+  - "Bel\xE9n Pati\xF1o"
+  - "Covadonga V\xE1zquez"
+  - "J\xE9ssica Gil-Serna"
+  publisher: Toxins
+  date: '2021-09-13'
+  link: https://doi.org/g6b5pf
+  orcid: 0000-0002-2113-1830
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pub.mdpi-res.com/toxins/toxins-13-00649/article_deploy/html/images/toxins-13-00649-g001.png?1631584580
+- id: doi:10.3390/IECAG2021-09700
+  title: "Analysis of Fusarium graminearum Antifungal Protein\u2019s and Latrodectin-II\u2019\
+    s Effect on Growth and Toxigenesis of Aspergillus Fungi with Agrofood Impact"
+  authors:
+  - Jorge Iribarren
+  - Jessica Gil-Serna
+  - "Alvaro Mart\xEDnez del Pozo"
+  - "Bel\xE9n Pati\xF1o"
+  publisher: The 1st International Electronic Conference on Agronomy
+  date: '2021-05-01'
+  link: https://doi.org/g6b5pk
+  orcid: 0000-0002-2113-1830
+  plugin: sources.py
+  file: sources.yaml
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Cereal_field_-_geograph.org.uk_-_5903942.jpg/800px-Cereal_field_-_geograph.org.uk_-_5903942.jpg
+- id: doi:10.3390/toxins12120754
+  title: The Genomic Regions That Contain Ochratoxin A Biosynthetic Genes Widely Differ
+    in Aspergillus Section Circumdati Species
+  authors:
+  - "J\xE9ssica Gil-Serna"
+  - "Covadonga V\xE1zquez"
+  - "Bel\xE9n Pati\xF1o"
+  publisher: Toxins
+  date: '2020-11-29'
+  link: https://doi.org/g6b5pq
+  orcid: 0000-0002-2113-1830
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pub.mdpi-res.com/toxins/toxins-12-00754/article_deploy/html/images/toxins-12-00754-ag.png?1607592470
+- id: doi:10.3390/beverages6030052
+  title: 'Mycotoxins in Functional Beverages: A Review'
+  authors:
+  - "J\xE9ssica Gil-Serna"
+  - "Covadonga V\xE1zquez"
+  - "Bel\xE9n Pati\xF1o"
+  publisher: Beverages
+  date: '2020-08-19'
+  link: https://doi.org/g6b5pv
+  orcid: 0000-0002-2113-1830
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pub.mdpi-res.com/beverages/beverages-06-00052/article_deploy/html/images/beverages-06-00052-g001.png?1602263741
+- id: doi:10.3390/toxins12030142
+  title: Assessment of the Effect of Satureja montana and Origanum virens Essential
+    Oils on Aspergillus flavus Growth and Aflatoxin Production at Different Water
+    Activities
+  authors:
+  - "Marta Garc\xEDa-D\xEDaz"
+  - Jessica Gil-Serna
+  - "Bel\xE9n Pati\xF1o"
+  - "Esther Garc\xEDa-Cela"
+  - Naresh Magan
+  - "\xC1ngel Medina"
+  publisher: Toxins
+  date: '2020-02-25'
+  link: https://doi.org/g6b5p2
+  orcid: 0000-0002-2113-1830
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pub.mdpi-res.com/toxins/toxins-12-00142/article_deploy/html/images/toxins-12-00142-ag.png?1585746168
+- id: doi:10.3390/microorganisms8010141
+  title: A Comprehensive Study on the Occurrence of Mycotoxins and Their Producing
+    Fungi during the Maize Production Cycle in Spain
+  authors:
+  - "Marta Garc\xEDa-D\xEDaz"
+  - "J\xE9ssica Gil-Serna"
+  - "Covadonga V\xE1zquez"
+  - "Mar\xEDa Nieves Botia"
+  - "Bel\xE9n Pati\xF1o"
+  publisher: Microorganisms
+  date: '2020-01-20'
+  link: https://doi.org/g6b5p6
+  orcid: 0000-0002-2113-1830
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pub.mdpi-res.com/microorganisms/microorganisms-08-00141/article_deploy/html/images/microorganisms-08-00141-g001.png?1581051688
+- id: doi:10.3390/toxins11110646
+  title: A Novel Niosome-Encapsulated Essential Oil Formulation to Prevent Aspergillus
+    flavus Growth and Aflatoxin Contamination of Maize Grains During Storage
+  authors:
+  - "Marta Garc\xEDa-D\xEDaz"
+  - "Bel\xE9n Pati\xF1o"
+  - "Covadonga V\xE1zquez"
+  - Jessica Gil-Serna
+  publisher: Toxins
+  date: '2019-11-06'
+  link: https://doi.org/g6b5qb
+  orcid: 0000-0002-2113-1830
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pub.mdpi-res.com/toxins/toxins-11-00646/article_deploy/html/images/toxins-11-00646-ag.png?1574970702
+- id: doi:10.1016/j.fm.2019.02.013
+  title: Significance of Aspergillus niger aggregate species as contaminants of food
+    products in Spain regarding their occurrence and their ability to produce mycotoxins
+  authors:
+  - "J\xE9ssica Gil-Serna"
+  - "Marta Garc\xEDa-D\xEDaz"
+  - "Covadonga V\xE1zquez"
+  - "Mar\xEDa Teresa Gonz\xE1lez-Ja\xE9n"
+  - "Bel\xE9n Pati\xF1o"
+  publisher: Food Microbiology
+  date: '2019-09-01'
+  link: https://doi.org/gjz8tn
+  orcid: 0000-0001-8568-9270
+  plugin: sources.py
+  file: sources.yaml
+  image: https://upload.wikimedia.org/wikipedia/commons/a/ae/Aspergillus_niger_Micrograph.jpg
+- id: doi:10.1007/s10123-019-00084-2
+  title: 'Genetic regulation of aflatoxin, ochratoxin A, trichothecene, and fumonisin
+    biosynthesis: A review'
+  authors:
+  - "J\xE9ssica Gil-Serna"
+  - "Covadonga V\xE1zquez"
+  - "Bel\xE9n Pati\xF1o"
+  publisher: International Microbiology
+  date: '2019-05-29'
+  link: https://doi.org/ggb34t
+  orcid: 0000-0001-8568-9270
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1016/j.ijfoodmicro.2018.06.017
+  title: Characterization of a novel cysteine-rich antifungal protein from Fusarium
+    graminearum with activity against maize fungal pathogens
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - "Bel\xE9n Pati\xF1o"
+  - "Covadonga V\xE1zquez"
+  - James M. Manning
+  - "Mar\xEDa Isabel G. Roncero"
+  - "Dolores C\xF3rdoba-Ca\xF1ero"
+  - Antonio Di Pietro
+  - "\xC1lvaro Mart\xEDnez-del-Pozo"
+  publisher: International Journal of Food Microbiology
+  date: '2018-10-01'
+  link: https://doi.org/gd6n7m
+  orcid: 0000-0001-8568-9270
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.3390/beverages4010006
+  title: 'Wine Contamination with Ochratoxins: A Review'
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Jessica Gil-Serna
+  - "Covadonga V\xE1zquez"
+  - "Mar\xEDa Gonz\xE1lez-Ja\xE9n"
+  - "Bel\xE9n Pati\xF1o"
+  publisher: Beverages
+  date: '2018-01-15'
+  link: https://doi.org/gjz8tp
+  orcid: 0000-0002-2113-1830
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1016/j.ijfoodmicro.2017.12.028
+  title: Description of an orthologous cluster of ochratoxin A biosynthetic genes
+    in Aspergillus and Penicillium species. A comparative analysis
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Jessica Gil-Serna
+  - "Marta Garc\xEDa-D\xEDaz"
+  - "Mar\xEDa Teresa Gonz\xE1lez-Ja\xE9n"
+  - "Covadonga V\xE1zquez"
+  - "Bel\xE9n Pati\xF1o"
+  publisher: International Journal of Food Microbiology
+  date: '2018-03-01'
+  link: https://doi.org/gc57fd
+  orcid: 0000-0001-8568-9270
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1093/femsle/fny161
+  title: 'Educating in antimicrobial resistance awareness: adaptation of the Small
+    World Initiative program to service-learning'
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - "Mar\xEDa Jos\xE9 Valderrama"
+  - "Bruno Gonz\xE1lez-Zorn"
+  - Pilar Calvo de Pablo
+  - "Rosal\xEDa D\xEDez-Orejas"
+  - "Teresa Fern\xE1ndez-Acero"
+  - Jessica Gil-Serna
+  - "Luc\xEDa de Juan"
+  - "Humberto Mart\xEDn"
+  - "Mar\xEDa Molina"
+  - "Federico Navarro-Garc\xEDa"
+  - "Bel\xE9n Pati\xF1o"
+  - "Jes\xFAs Pla"
+  - Daniel Prieto
+  - "Carmina Rodr\xEDguez"
+  - "Elvira Rom\xE1n"
+  - "Ana Bel\xE9n Sanz-Santamar\xEDa"
+  - "Mar\xEDa Isabel de Sil\xF3niz"
+  - "M\xF3nica Su\xE1rez"
+  - "Covadonga V\xE1zquez"
+  - "V\xEDctor J Cid"
+  publisher: FEMS Microbiology Letters
+  date: '2018-06-30'
+  link: https://doi.org/gmzttn
+  orcid: 0000-0001-8568-9270
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+- id: wosuid:MEDLINE:27924535
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:MEDLINE:27924535
+  orcid: 0000-0001-8568-9270
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1007/978-1-4939-6707-0_8
+  title: Targeting Conserved Genes in Fusarium Species
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - "J\xE9ssica Gil-Serna"
+  - "Bel\xE9n Pati\xF1o"
+  - Miguel Jurado
+  - Salvador Mirete
+  - "Covadonga V\xE1zquez"
+  - "M. Teresa Gonz\xE1lez-Ja\xE9n"
+  publisher: Methods in Molecular Biology
+  date: '2016-12-07'
+  link: https://doi.org/g6b5q8
+  orcid: 0000-0002-2113-1830
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1016/j.aca.2016.06.009
+  title: Species-specific optical genosensors for the detection of mycotoxigenic Fusarium
+    fungi in food samples
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
+  - Riikka Peltomaa
+  - Silvia Vaghini
+  - "Bel\xE9n Pati\xF1o"
+  - "Elena Benito-Pe\xF1a"
+  - "Mar\xEDa C. Moreno-Bondi"
+  publisher: Analytica Chimica Acta
+  date: '2016-09-01'
+  link: https://doi.org/f82kqv
+  orcid: 0000-0001-8568-9270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.fm.2014.07.013
+  title: Aspergillus steynii and Aspergillus westerdijkiae as potential risk of OTA
+    contamination in food products in warm climates
+  authors:
+  - Jessica Gil-Serna
+  - "Bel\xE9n Pati\xF1o"
+  - Laura Cortes
+  - Maria Teresa Gonzalez-Jaen
+  - Covadonga Vazquez
+  publisher: Food Microbiology
+  date: '2015-04-01'
+  link: https://doi.org/f7mbm6
+  orcid: 0000-0002-2113-1830
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijfoodmicro.2015.07.020
+  title: Clustered array of ochratoxin A biosynthetic genes in Aspergillus steynii
+    and their expression patterns in permissive conditions
+  authors:
+  - Jessica Gil-Serna
+  - "Covadonga V\xE1zquez"
+  - "Mar\xEDa Teresa Gonz\xE1lez-Ja\xE9n"
+  - "Bel\xE9n Pati\xF1o"
+  publisher: International Journal of Food Microbiology
+  date: '2015-12-01'
+  link: https://doi.org/f7w9n9
+  orcid: 0000-0002-2113-1830
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.foodres.2014.01.058
+  title: Evaluation of growth and ochratoxin A production by Aspergillus steynii and
+    Aspergillus westerdijkiae in green-coffee based medium under different environmental
+    conditions
+  authors:
+  - Jessica Gil-Serna
+  - "Covadonga V\xE1zquez"
+  - "Fernando Garc\xEDa Sandino"
+  - "Ana M\xE1rquez Valle"
+  - "Mar\xEDa Teresa Gonz\xE1lez-Ja\xE9n"
+  - "Bel\xE9n Pati\xF1o"
+  publisher: Food Research International
+  date: '2014-07-01'
+  link: https://doi.org/f58tgn
+  orcid: 0000-0002-2113-1830
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/b978-0-12-384730-0.00234-2
+  title: MYCOTOXINS | Toxicology
+  authors:
+  - J. Gil-Serna
+  - "C. V\xE1zquez"
+  - "M.T. Gonz\xE1lez-Ja\xE9n"
+  - "B. Pati\xF1o"
+  publisher: Encyclopedia of Food Microbiology
+  date: '2014-01-01'
+  link: https://doi.org/g6b5r5
+  orcid: 0000-0001-8568-9270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/B978-0-12-384730-0.00234-2
+  title: MYCOTOXINS | Toxicology
+  authors:
+  - J. Gil-Serna
+  - "C. V\xE1zquez"
+  - "M.T. Gonz\xE1lez-Ja\xE9n"
+  - "B. Pati\xF1o"
+  publisher: Encyclopedia of Food Microbiology
+  date: '2014-01-01'
+  link: https://doi.org/g6b5r5
+  orcid: 0000-0001-8568-9270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1139/gen-2013-0008
+  title: Structural variation and dynamics of the nuclear ribosomal intergenic spacer
+    region in key members of the<i>Gibberella fujikuroi</i>species complex
+  authors:
+  - Salvador Mirete
+  - "Bel\xE9n Pati\xF1o"
+  - Miguel Jurado
+  - "Covadonga V\xE1zquez"
+  - "Mar\xEDa Teresa Gonz\xE1lez-Ja\xE9n"
+  publisher: Genome
+  date: '2013-04-01'
+  link: https://doi.org/f4xz3k
+  orcid: 0000-0001-8568-9270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/19440049.2012.743040
+  title: 'Contamination of barley seeds with<i>Fusarium</i>species and their toxins
+    in Spain: an integrated approach'
+  authors:
+  - J. Gil-Serna
+  - E.M. Mateo
+  - "M.T. Gonz\xE1lez-Ja\xE9n"
+  - "M. Jim\xE9nez"
+  - "C. V\xE1zquez"
+  - "B. Pati\xF1o"
+  publisher: 'Food Additives &amp; Contaminants: Part A'
+  date: '2013-02-01'
+  link: https://doi.org/f4njgf
+  orcid: 0000-0002-2113-1830
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijfoodmicro.2012.08.001
+  title: Effect of preharvest anti-fungal compounds on Aspergillus steynii and A.
+    carbonarius under fluctuating and extreme environmental conditions
+  authors:
+  - "E. Garc\xEDa-Cela"
+  - J. Gil-Serna
+  - "S. Mar\xEDn"
+  - H. Acevedo
+  - "B. Pati\xF1o"
+  - A.J. Ramos
+  publisher: International Journal of Food Microbiology
+  date: '2012-10-01'
+  link: https://doi.org/f4drfs
+  orcid: 0000-0002-2113-1830
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijfoodmicro.2011.08.012
+  title: Mechanisms involved in reduction of ochratoxin A produced by Aspergillus
+    westerdijkiae using Debaryomyces hansenii CYC 1244
+  authors:
+  - "J\xE9ssica Gil-Serna"
+  - "Bel\xE9n Pati\xF1o"
+  - "Laura Cort\xE9s"
+  - "Mar\xEDa Teresa Gonz\xE1lez-Ja\xE9n"
+  - "Covadonga V\xE1zquez"
+  publisher: International Journal of Food Microbiology
+  date: '2011-11-01'
+  link: https://doi.org/d4rzmm
+  orcid: 0000-0002-2113-1830
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijfoodmicro.2011.06.006
+  title: Aflatoxins and ochratoxin A in stored barley grain in Spain and impact of
+    PCR-based strategies to assess the occurrence of aflatoxigenic and ochratoxigenic
+    Aspergillus spp.
+  authors:
+  - Eva M. Mateo
+  - "J\xE9ssica Gil-Serna"
+  - "Bel\xE9n Pati\xF1o"
+  - "Misericordia Jim\xE9nez"
+  publisher: International Journal of Food Microbiology
+  date: '2011-09-01'
+  link: https://doi.org/dgkhmm
+  orcid: 0000-0002-2113-1830
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.foodcont.2011.02.013
+  title: Detection of potentially mycotoxigenic Aspergillus species in Capsicum powder
+    by a highly sensitive PCR-based detection method
+  authors:
+  - "Noelia Sardi\xF1as"
+  - "J\xE9ssica Gil-Serna"
+  - Liliana Santos
+  - Antonio J. Ramos
+  - "Mar\xEDa Teresa Gonz\xE1lez-Ja\xE9n"
+  - "Bel\xE9n Pati\xF1o"
+  - "Covadonga V\xE1zquez"
+  publisher: Food Control
+  date: '2011-08-01'
+  link: https://doi.org/b9j928
+  orcid: 0000-0002-2113-1830
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.foodcont.2010.06.018
+  title: Revision of ochratoxin a production capacity by the main species of Aspergillus
+    section Circumdati. Aspergillus steynii revealed as the main risk of OTA contamination
+  authors:
+  - "J\xE9ssica Gil-Serna"
+  - "Covadonga V\xE1zquez"
+  - "Noelia Sardi\xF1as"
+  - "Ma Teresa Gonz\xE1lez-Ja\xE9n"
+  - "Bel\xE9n Pati\xF1o"
+  publisher: Food Control
+  date: '2011-02-01'
+  link: https://doi.org/dz79qv
+  orcid: 0000-0002-2113-1830
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijfoodmicro.2010.11.041
+  title: "Specific detection and quantification of Aspergillus flavus and Aspergillus\
+    \ parasiticus in wheat flour by SYBR\xAE Green quantitative PCR"
+  authors:
+  - "Noelia Sardi\xF1as"
+  - "Covadonga V\xE1zquez"
+  - "J\xE9ssica Gil-Serna"
+  - "Ma Teresa Gonz\xE1lez-Ja\xE9n"
+  - "Bel\xE9n Pati\xF1o"
+  publisher: International Journal of Food Microbiology
+  date: '2011-01-31'
+  link: https://doi.org/b45k46
+  orcid: 0000-0002-2113-1830
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-1-61779-102-4_19
+  title: Highly Sensitive PCR-Based Detection Specific to Aspergillus flavus
+  authors:
+  - "Amaia Gonz\xE1lez-Salgado"
+  - "Teresa Gonz\xE1lez-Ja\xE9n"
+  - "Covadonga V\xE1zquez"
+  - "Bel\xE9n Pati\xF1o"
+  publisher: Methods in Molecular Biology
+  date: '2011-01-01'
+  link: https://doi.org/bnnm3f
+  orcid: 0000-0001-8568-9270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijfoodmicro.2011.09.011
+  title: Mycobiota and co-occurrence of mycotoxins in Capsicum powder
+  authors:
+  - L. Santos
+  - "S. Mar\xEDn"
+  - E.M. Mateo
+  - J. Gil-Serna
+  - F.M. Valle-Algarra
+  - "B. Pati\xF1o"
+  - A.J. Ramos
+  publisher: International Journal of Food Microbiology
+  date: '2011-12-01'
+  link: https://doi.org/fwqnzj
+  orcid: 0000-0002-2113-1830
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/19440041003645779
+  title: Specific detection of<i>Aspergillus parasiticus</i>in wheat flour using a
+    highly sensitive PCR assay
+  authors:
+  - "Noelia Sardi\xF1as"
+  - "Covadonga V\xE1zquez"
+  - "J\xE9ssica Gil-Serna"
+  - "M. Teresa Gonz\xE1lez-Ja\xE9n"
+  - "Bel\xE9n Pati\xF1o"
+  publisher: 'Food Additives &amp; Contaminants: Part A'
+  date: '2010-06-01'
+  link: https://doi.org/cdzc43
+  orcid: 0000-0002-2113-1830
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12550-010-0042-y
+  title: Ochratoxin A production in aniseed-based media by selected fungal strains
+    and in anise fruits (Pimpinella anisum L.)
+  authors:
+  - Francisco Espejo
+  - "Covadonga V\xE1zquez"
+  - "Bel\xE9n Pati\xF1o"
+  - Sandra Armada
+  publisher: Mycotoxin Research
+  date: '2010-03-09'
+  link: https://doi.org/fmf6jb
+  orcid: 0000-0001-8568-9270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1142/9789814322119_0079
+  title: Biocontrol of <i>Penicillium expansum</i> with yeast
+  authors:
+  - M. Domenech Lucas
+  - "C. V\xE1zquez Est\xE9vez"
+  - "M.T. Gonz\xE1lez-Ja\xE9n"
+  - "B. Pati\xF1o \xC1lvarez"
+  publisher: Microorganisms in Industry and Environment
+  date: '2010-12-01'
+  link: https://doi.org/b9wct7
+  orcid: 0000-0001-8568-9270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1142/9789814322119_0094
+  title: Species specific PCR detection protocol for the main mycotoxin-producing
+    <i>Aspergillus</i> species in paprika
+  authors:
+  - "N. Sardi\xF1as D\xEDaz"
+  - J. Gil-Serna
+  - "B. Pati\xF1o \xC1lvarez"
+  - "M.T. Gonz\xE1lez-Ja\xE9n"
+  - "C. V\xE1zquez Est\xE9vez"
+  publisher: Microorganisms in Industry and Environment
+  date: '2010-12-01'
+  link: https://doi.org/bb8qx7
+  orcid: 0000-0001-8568-9270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijfoodmicro.2009.09.018
+  title: Discrimination of the main Ochratoxin A-producing species in Aspergillus
+    section Circumdati by specific PCR assays
+  authors:
+  - "J\xE9ssica Gil-Serna"
+  - "Covadonga V\xE1zquez"
+  - "Noelia Sardi\xF1as"
+  - "Ma Teresa Gonz\xE1lez-Ja\xE9n"
+  - "Bel\xE9n Pati\xF1o"
+  publisher: International Journal of Food Microbiology
+  date: '2009-11-01'
+  link: https://doi.org/b5xfnk
+  orcid: 0000-0002-2113-1830
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1574-6968.2009.01578.x
+  title: "Specific detection of<i>Aspergillus carbonarius</i>by SYBR<sup>\xC2\xAE\
+    </sup>Green and TaqMan<sup>\xC2\xAE</sup>quantitative PCR assays based on the\
+    \ multicopy ITS2 region of the rRNA gene"
+  authors:
+  - "Amaia Gonz\xC3\xA1lez-Salgado"
+  - "Bel\xC3\xA9n Pati\xC3\xB1o"
+  - Jessica Gil-Serna
+  - "Covadonga V\xC3\xA1zquez"
+  - "Maria Teresa Gonz\xC3\xA1lez-Ja\xC3\xA9n"
+  publisher: FEMS Microbiology Letters
+  date: '2009-06-01'
+  link: https://doi.org/dkmvz8
+  orcid: 0000-0002-2113-1830
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijfoodmicro.2009.02.008
+  title: ITS-based detection and quantification of Aspergillus ochraceus and Aspergillus
+    westerdijkiae in grapes and green coffee beans by real-time quantitative PCR
+  authors:
+  - "J\xE9ssica Gil-Serna"
+  - "Amaia Gonz\xE1lez-Salgado"
+  - "M Teresa Gonz\xE1lez-Ja\xE9n"
+  - "Covadonga V\xE1zquez"
+  - "Bel\xE9n Pati\xF1o"
+  publisher: International Journal of Food Microbiology
+  date: '2009-05-01'
+  link: https://doi.org/d8xntg
+  orcid: 0000-0002-2113-1830
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1142/9789812837554_0121
+  title: Heterologous expression and enzymatic characterisation of exopolygalacturonase
+    PGX1
+  authors:
+  - A. de las Heras
+  - "C. V\xE1zquez"
+  - "A. Mart\xEDnez del Pozo"
+  - "B. Pati\xF1o"
+  - "M. T. Gonz\xE1lez-Ja\xE9n"
+  publisher: Current Research Topics in Applied Microbiology and Microbial Biotechnology
+  date: '2009-01-01'
+  link: https://doi.org/dgr48r
+  orcid: 0000-0001-8568-9270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/02652030701765715
+  title: Highly sensitive PCR-based detection method specific for<b><i>Aspergillus
+    flavus</i></b>in wheat flour
+  authors:
+  - "Amaia Gonz\xE1lez-Salgado"
+  - "Teresa Gonz\xE1lez-Ja\xE9n"
+  - "Covadonga V\xE1zquez"
+  - "Bel\xE9n Pati\xF1o"
+  publisher: 'Food Additives &amp; Contaminants: Part A'
+  date: '2008-06-01'
+  link: https://doi.org/dz8whf
+  orcid: 0000-0001-8568-9270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijfoodmicro.2007.12.014
+  title: Ecophysiological characterization of Penicillium expansum population in lleida
+    (Spain)
+  authors:
+  - Hector Morales
+  - "Sonia Mar\xEDn"
+  - Laura Obea
+  - "Bel\xE9n Pati\xF1o"
+  - "Miriam Dom\xE9nech"
+  - Antonio J. Ramos
+  - Vicente Sanchis
+  publisher: International Journal of Food Microbiology
+  date: '2008-03-01'
+  link: https://doi.org/dd9zm9
+  orcid: 0000-0001-8568-9270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/9783527611904.ch113
+  title: "Conventional and Real\u2010Time PCR Assays for Detection and Quantification\
+    \ of the Expression of Fumonisin Biosynthetic Gene<i>fum5</i>in<i>Fusarium verticillioides</i>"
+  authors:
+  - "E. L\xF3pez\u2010Errasqu\xEDn"
+  - "B. Pati\xF1o"
+  - "M. Jim\xE9nez"
+  - M. Jurado
+  - "A. Gonz\xE1lez\u2010Salgado"
+  - "M. T. Gonz\xE1lez\u2010Ja\xE9n"
+  - "C. V\xE1zquez"
+  publisher: Modern Multidisciplinary Applied Microbiology
+  date: '2006-07-20'
+  link: https://doi.org/cnw5pg
+  orcid: 0000-0001-8568-9270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/9783527611904.ch56
+  title: PCR Assay for Identification of<i>Aspergillus</i>Section<i>Nigri</i>using
+    Internal Transcribed Spacer Regions 1 and 2
+  authors:
+  - "A. Gonz\xE1lez\u2010Salgado"
+  - "B. Pati\xF1o"
+  - M. Jurado
+  - "E. L\xF3pez\u2010Errasqu\xEDn"
+  - "C. V\xE1zquez"
+  - "M. T. Gonz\xE1\u2010Ja\xE9n"
+  publisher: Modern Multidisciplinary Applied Microbiology
+  date: '2006-07-20'
+  link: https://doi.org/c64swm
+  orcid: 0000-0001-8568-9270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/02652030600967222
+  title: Polymerase chain reaction (PCR) identification of<b><i>Penicillium brevicompactum</i></b>,
+    a grape contaminant and mycophenolic acid producer
+  authors:
+  - "B. Pati\xF1o"
+  - "\xC1. Medina"
+  - "M. Dom\xE9nech"
+  - "M. T. Gonz\xE1lez-Ja\xE9n"
+  - "M. Jim\xE9nez"
+  - "C. V\xE1zquez"
+  publisher: Food Additives and Contaminants
+  date: '2007-02-01'
+  link: https://doi.org/cc8nhw
+  orcid: 0000-0001-8568-9270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/jsfa.2353
+  title: "Characterization of <i>Fusarium verticillioides</i> strains by PCR\u2010\
+    RFLP analysis of the intergenic spacer region of the rDNA"
+  authors:
+  - "Bel\xE9n Pati\xF1o"
+  - Salvador Mirete
+  - "Covadonga V\xE1zquez"
+  - "Misericordia Jim\xE9nez"
+  - "M Teresa Rodr\xEDguez"
+  - "M Teresa Gonz\xE1lez\u2010Ja\xE9n"
+  publisher: Journal of the Science of Food and Agriculture
+  date: '2005-11-14'
+  link: https://doi.org/bwmxvj
+  orcid: 0000-0001-8568-9270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijfoodmicro.2005.02.011
+  title: PCR detection assays for the ochratoxin-producing Aspergillus carbonarius
+    and Aspergillus ochraceus species
+  authors:
+  - "Bel\xE9n Pati\xF1o"
+  - "Amaia Gonz\xE1lez-Salgado"
+  - "M Teresa Gonz\xE1lez-Ja\xE9n"
+  - "Covadonga V\xE1zquez"
+  publisher: International Journal of Food Microbiology
+  date: '2005-10-01'
+  link: https://doi.org/frgwkt
+  orcid: 0000-0001-8568-9270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.syapm.2005.02.003
+  title: PCR detection assays for the trichothecene-producing species Fusarium graminearum,
+    Fusarium culmorum, Fusarium poae, Fusarium equiseti and Fusarium sporotrichioides
+  authors:
+  - Miguel Jurado
+  - "Covadonga V\xE1zquez"
+  - "Bel\xE9n Pati\xF1o"
+  - "M. Teresa Gonz\xE1lez-Ja\xE9n"
+  publisher: Systematic and Applied Microbiology
+  date: '2005-08-01'
+  link: https://doi.org/bg7fdr
+  orcid: 0000-0001-8568-9270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.femsle.2005.03.023
+  title: Discrimination of Aspergillus niger and other Aspergillus species belonging
+    to section Nigri by PCR assays
+  authors:
+  - "Amaia Gonz\xC3\xA1lez-Salgado"
+  - "Bel\xC3\xA9n Pati\xC3\xB1o"
+  - "Covadonga V\xC3\xA1zquez"
+  - "Ma Teresa Gonz\xC3\xA1lez-Ja\xC3\xA9n"
+  publisher: FEMS Microbiology Letters
+  date: '2005-04-01'
+  link: https://doi.org/bv4sv8
+  orcid: 0000-0001-8568-9270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.femsyr.2004.09.002
+  title: Differential detection of isolated from intermediate-moisture foods by PCR-RFLP
+    of the IGS region of rDNA
+  authors:
+  - P ROMERO
+  - B PATINO
+  - M QUIROS
+  - M GONZALEZJAEN
+  - M VALDERRAMA
+  - M DESILONIZ
+  - J PEINADO
+  publisher: FEMS Yeast Research
+  date: '2005-02-01'
+  link: https://doi.org/bgx5r3
+  orcid: 0000-0001-8568-9270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1078/0723202042369938
+  title: Utility of the Polymerase Chain Reaction-Restriction Fragment Length Polymorphisms
+    of the Intergenic Spacer Region of the rDNA for Characterizing Gibberella fujikuroi
+    isolates
+  authors:
+  - "Mar\xEDa J. Hinojo"
+  - Amparo Llorens
+  - Rufino Mateo
+  - "Bel\xE9n Pati\xF1o"
+  - "Mar\xEDa Teresa Gonz\xE1lez-Ja\xE9n"
+  - "Misericordia Jim\xE9nez"
+  publisher: Systematic and Applied Microbiology
+  date: '2004-12-01'
+  link: https://doi.org/d7t3db
+  orcid: 0000-0001-8568-9270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:15222565
+  title: PCR detection assay of fumonisin-producing Fusarium verticillioides strains.
+  authors:
+  - "Bel\xE9n Pati\xF1o"
+  - Salvador Mirete
+  - "M Teresa Gonz\xE1lez-Ja\xE9n"
+  - "Giuseppina Mul\xE9"
+  - "M Teresa Rodr\xEDguez"
+  - "Covadonga V\xE1zquez"
+  publisher: Journal of food protection
+  date: '2004-06-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/15222565
+  orcid: 0000-0001-8568-9270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-1-4020-2285-2_7
+  title: Genetic markers for the analysis of variability and for production of specific
+    diagnostic sequences in fumonisin-producing strains of Fusarium verticillioides
+  authors:
+  - "M. Teresa Gonz\xE1lez-Ja\xE9n"
+  - Salvador Mirete
+  - "Bel\xE9n Pati\xF1o"
+  - "Elena L\xF3pez-Errasqu\xEDn"
+  - "Covadonga V\xE1zquez"
+  publisher: Molecular Diversity and PCR-detection of Toxigenic Fusarium Species and
+    Ochratoxigenic Fungi
+  date: '2004-01-01'
+  link: https://doi.org/g6b53s
+  orcid: 0000-0001-8568-9270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4315/0362-028X-67.6.1278
+  title: PCR Detection Assay of Fumonisin-Producing Fusarium verticillioides Strains
+  authors:
+  - "Bel\xE9n Pati\xF1o"
+  - Salvador Mirete
+  - "M.Teresa Gonz\xE1lez-Ja\xE9n"
+  - "Giuseppina Mul\xE9"
+  - "M.Teresa Rodr\xEDguez"
+  - "Covadonga V\xE1zquez"
+  publisher: Journal of Food Protection
+  date: '2004-06-01'
+  link: https://doi.org/g6b534
+  orcid: 0000-0001-8568-9270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1046/j.1365-2672.2003.01912.x
+  title: Characterization and in vitro expression patterns of an exopolygalacturonase
+    encoding gene from Fusarium oxysporum f.sp. radicis lycopersici
+  authors:
+  - A. de las Heras
+  - B. Patino
+  - M.L. Posada
+  - M.J. Martinez
+  - C. Vazquez
+  - M.T. Gonzalez Jaen
+  publisher: Journal of Applied Microbiology
+  date: '2003-05-01'
+  link: https://doi.org/b6mp75
+  orcid: 0000-0001-8568-9270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0168-1605(03)00150-8
+  title: Fumonisin production by Gibberella fujikuroi strains fromPinus species
+  authors:
+  - S Mirete
+  publisher: International Journal of Food Microbiology
+  date: '2003-12-31'
+  link: https://doi.org/dn9td4
+  orcid: 0000-0001-8568-9270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-662-08724-4_40
+  title: Occurrence of Aspergillus fumigatus in a Compost Polluted with Heavy Metals
+  authors:
+  - "E. L\xF3pez Errasqu\xEDn"
+  - "B. Pati\xF1o"
+  - "R. M. Fern\xE1ndez"
+  - "C. V\xE1zquez"
+  publisher: Microbiology of Composting
+  date: '2002-01-01'
+  link: https://doi.org/g6b54r
+  orcid: 0000-0001-8568-9270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/s0953756200003142
+  title: Comparative analysis of polygalacturonases in isolates of seven species of
+    Fusarium from Pinus pinea
+  authors:
+  - Martha L. Posada
+  - "Bel\xE9n Pati\xF1o"
+  - Salvador Mirete
+  - M. Carmen Muntoz
+  - "Covadonga V\xE1zquez"
+  - "M. Teresa Gon\xE1lez-Ja\xE9n"
+  publisher: Mycological Research
+  date: '2001-01-01'
+  link: https://doi.org/bnbftk
+  orcid: 0000-0001-8568-9270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/s0953756200003154
+  title: Comparative analysis of an endopolygalacturonase coding gene in isolates
+    of seven Fusarium species
+  authors:
+  - Martha L. Posada
+  - Belen Patino
+  - Aitor De La Heras
+  - Salvador Mirete
+  - Covadonga Vazquez
+  - M. Teresa Gonzalez-Jaen
+  publisher: Mycological Research
+  date: '2000-11-01'
+  link: https://doi.org/ftfjt4
+  orcid: 0000-0001-8568-9270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1139/m97-155
+  title: Control of polygalacturonase synthesis in<i>Fusarium oxyspotum</i>f.sp.<i>radicis
+    lycopersici</i>
+  authors:
+  - "Bel\xE9n Pati\xF1o"
+  - "Martha Luc\xEDa Posada"
+  - "Covadonga V\xE1zquez"
+  - "Mar\xEDa Teresa Gonz\xE1lez-Ja\xE9n"
+  - "\xC1lvaro Mart\xEDnez del Pozo"
+  publisher: Canadian Journal of Microbiology
+  date: '1997-11-01'
+  link: https://doi.org/cp5rqj
+  orcid: 0000-0001-8568-9270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/s0921-0423(96)80330-3
+  title: Regulation of polygalacturonases in two isolates of Fusarium oxysporum f.
+    sp. Radicis lycopersici (FORL)
+  authors:
+  - "B. Pati\xF1o"
+  - M.L. Posada
+  - "M.T. Gonz\xE1lez-Ja\xE9n"
+  - "M.J. Mart\xEDnez"
+  - "C. V\xE1zquez"
+  publisher: Progress in Biotechnology
+  date: '1996-01-01'
+  link: https://doi.org/b3w77f
+  orcid: 0000-0001-8568-9270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1006/abbi.1995.0040
+  title: Characterization of the Antifungal Protein Secreted by the MouldAspergillus
+    giganteus
+  authors:
+  - J. Lacadena
+  - "A.Mart\u0131\u0301nez del Pozo"
+  - M. Gasset
+  - "B. Pati\xF1o"
+  - R. Campos-Olivas
+  - "C. V\xE1zquez"
+  - "A. Mart\u0131\u0301nez-Ruiz"
+  - "J.M. Manche\xF1o"
+  - "M. O\xF1aderra"
+  - J.G. Gavilanes
+  publisher: Archives of Biochemistry and Biophysics
+  date: '1995-12-01'
+  link: https://doi.org/chvnpv
+  orcid: 0000-0001-8568-9270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/s0953-7562(09)80134-2
+  title: Pectin degrading enzymes secreted by six isolates of Fusarium oxysporum
+  authors:
+  - "Nuria Fern\xE1ndez"
+  - "Bel\xE9n Pati\xF1o"
+  - "Covadonga V\xE1zquez"
+  publisher: Mycological Research
+  date: '1993-04-01'
+  link: https://doi.org/d9g9tz
+  orcid: 0000-0001-8568-9270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1574-6968.1993.tb06319.x
+  title: Purification and characterization of an exopolygalacturonase produced by<i>Fusarium
+    oxysporum</i>f. sp.<i>radicis lycopersici</i>
+  authors:
+  - "Covadonga V\xC3\xA1zquez"
+  - "Bel\xC3\xA9n Pati\xC3\xB1o"
+  - "Mar\xC3\xADa Jes\xC3\xBAs Mart\xC3\xADnez"
+  publisher: FEMS Microbiology Letters
+  date: '1993-06-01'
+  link: https://doi.org/b5gdv8
+  orcid: 0000-0001-8568-9270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/0378-1097(93)90465-E
+  title: Purification and characterization of an exopolygalacturonase produced by<i>Fusarium
+    oxysporum</i>f. sp.<i>radicis lycopersici</i>
+  authors:
+  - "Covadonga V\xC3\xA1zquez"
+  - "Bel\xC3\xA9n Pati\xC3\xB1o"
+  - "Mar\xC3\xADa Jes\xC3\xBAs Mart\xC3\xADnez"
+  publisher: FEMS Microbiology Letters
+  date: '1993-06-01'
+  link: https://doi.org/c6dcf2
+  orcid: 0000-0001-8568-9270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cofs.2024.101213
+  title: The relevance of genomics in food mycology with a focus on food safety
+  authors:
+  - Jessica Gil-Serna
+  - Covadonga Vazquez
+  - "Bel\xE9n Pati\xF1o"
+  publisher: Current Opinion in Food Science
+  date: '2024-08-22'
+  link: https://doi.org/g6b35v
+  orcid: 0000-0002-2113-1830
   plugin: sources.py
   file: sources.yaml
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
+  description: This review presents the potential uses and limitations of genomics
+    in food mycology studies and its applications in the field.
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2214799324000912-gr1.jpg
   tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+  - review
+  - genomics
+  - food safety
+- id: doi:10.1007/978-1-4939-6707-0_15
+  title: Evaluating Aflatoxin Gene Expression in Aspergillus Section Flavi
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  - Paula Cristina Azevedo Rodrigues
+  - "J\xE9ssica Gil-Serna"
+  - "M. Teresa Gonz\xE1lez-Ja\xE9n"
+  publisher: Methods in Molecular Biology
+  date: '2016-12-07'
+  link: https://doi.org/g6b56h
+  orcid: 0000-0002-2113-1830
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1007/s10658-016-0897-7
+  title: Fusarium proliferatum from rainwater and rooted garlic show genetic and pathogenicity
+    differences
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  - "J\xE9ssica Gil-Serna"
+  - "Laura G\xE1lvez"
+  - "Mar\xEDa Par\xEDs"
+  - Daniel Palmero
+  publisher: European Journal of Plant Pathology
+  date: '2016-03-12'
+  link: https://doi.org/g6b56n
+  orcid: 0000-0002-2113-1830
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5423/PPJ.OA.03.2016.0063
+  title: 'Stemphylium Leaf Blight of Garlic (Allium sativum) in Spain: Taxonomy and
+    In Vitro Fungicide Response'
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
+  - Laura Galvez
+  - Jessica Gil-Serna
+  - Marta Garcia
+  - Concepcion Iglesias
+  - Daniel Palmero
+  publisher: The Plant Pathology Journal
+  date: '2016-10-01'
+  link: https://doi.org/g6b56v
+  orcid: 0000-0002-2113-1830
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1094/PDIS-11-14-1195-PDN
+  title: First Report of a Garlic Bulb Rot Caused by <i>Erwinia persicina</i> in Europe
+  authors:
+  - "L. G\xE1lvez"
+  - J. Gil-Serna
+  - "M. Garc\xEDa-D\xEDaz"
+  - D. Palmero
+  publisher: Plant Disease
+  date: '2015-05-01'
+  link: https://doi.org/g6b567
+  orcid: 0000-0002-2113-1830
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/jsfa.6876
+  title: "Fungal diversity, incidence and mycotoxin contamination in grapes from two\
+    \ agro\u2010climatic Spanish regions with emphasis on <i>Aspergillus</i> species"
+  authors:
+  - "Esther Garc\xEDa\u2010Cela"
+  - "Ana Crespo\u2010Sempere"
+  - "Jessica Gil\u2010Serna"
+  - Aleix Porqueres
+  - Sonia Marin
+  publisher: Journal of the Science of Food and Agriculture
+  date: '2014-09-19'
+  link: https://doi.org/gjz8tx
+  orcid: 0000-0002-2113-1830
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5424/sjar/2012104-2754
+  title: Short communication. Rhizoctonia solani as causal agent of damping off of
+    Swiss chard in Spain
+  authors:
+  - D. Palmero
+  - "L. G\xE1lvez"
+  - J. Gil-Serna
+  - S. Benito
+  publisher: Spanish Journal of Agricultural Research
+  date: '2012-10-30'
+  link: https://doi.org/f4hsxq
+  orcid: 0000-0002-2113-1830
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijfoodmicro.2010.07.018
+  title: Effect of Capsicum carotenoids on growth and ochratoxin A production by chilli
+    and paprika Aspergillus spp. isolates
+  authors:
+  - L. Santos
+  - R. Kasper
+  - J. Gil-Serna
+  - "S. Mar\xEDn"
+  - V. Sanchis
+  - A.J. Ramos
+  publisher: International Journal of Food Microbiology
+  date: '2010-09-01'
+  link: https://doi.org/bhbx38
+  orcid: 0000-0002-2113-1830
+  plugin: orcid.py
+  file: orcid.yaml

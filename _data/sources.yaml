@@ -1,23 +1,45 @@
-- id: doi:10.1371/journal.pcbi.1007128
+- id: doi:10.1016/j.cofs.2024.101213
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+  description: This review presents the potential uses and limitations of genomics in food mycology studies and its applications in the field. 
+  date: 2024-08-22
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2214799324000912-gr1.jpg
   tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+    - review
+    - genomics
+    - food safety
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi:10.3390/agriculture13101998
+  image: https://pub.mdpi-res.com/agriculture/agriculture-13-01998/article_deploy/html/images/agriculture-13-01998-g001.png?1697277512
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.3390/jof8111136
+  image: https://pub.mdpi-res.com/jof/jof-08-01136/article_deploy/html/images/jof-08-01136-g001.png?1668073883
+
+- id: doi:10.3390/toxins14090592
+  image: https://pub.mdpi-res.com/toxins/toxins-14-00592/article_deploy/html/images/toxins-14-00592-g003.png?1684152231
+
+- id: doi:10.3390/toxins13110780
+  image: https://pub.mdpi-res.com/toxins/toxins-13-00780/article_deploy/html/images/toxins-13-00780-g001.png?1636085013
+
+- id: doi:10.3390/toxins13090649
+  image: https://pub.mdpi-res.com/toxins/toxins-13-00649/article_deploy/html/images/toxins-13-00649-g001.png?1631584580
+
+- id: doi:10.3390/IECAG2021-09700
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Cereal_field_-_geograph.org.uk_-_5903942.jpg/800px-Cereal_field_-_geograph.org.uk_-_5903942.jpg
+
+- id: doi:10.3390/toxins12120754
+  image: https://pub.mdpi-res.com/toxins/toxins-12-00754/article_deploy/html/images/toxins-12-00754-ag.png?1607592470
+
+- id: doi:10.3390/beverages6030052
+  image: https://pub.mdpi-res.com/beverages/beverages-06-00052/article_deploy/html/images/beverages-06-00052-g001.png?1602263741
+
+- id: doi:10.3390/toxins12030142
+  image: https://pub.mdpi-res.com/toxins/toxins-12-00142/article_deploy/html/images/toxins-12-00142-ag.png?1585746168
+
+- id: doi:10.3390/microorganisms8010141
+  image: https://pub.mdpi-res.com/microorganisms/microorganisms-08-00141/article_deploy/html/images/microorganisms-08-00141-g001.png?1581051688
+
+- id: doi:10.3390/toxins11110646
+  image: https://pub.mdpi-res.com/toxins/toxins-11-00646/article_deploy/html/images/toxins-11-00646-ag.png?1574970702
+
+- id: doi:10.1016/j.fm.2019.02.013
+  image: https://upload.wikimedia.org/wikipedia/commons/a/ae/Aspergillus_niger_Micrograph.jpg
