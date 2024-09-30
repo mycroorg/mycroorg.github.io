@@ -8,12 +8,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@mycroorg.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: mycroorg
+  # email: contact@mycroorg.com
   twitter: mycroorg
-  youtube: mycroorg
+  github: mycroorg
+  orcid: 0000-0001-8568-9270
+  google-scholar: G20p_p8AAAAJ
+  # youtube: mycroorg
 
 ### jekyll settings
 
@@ -50,6 +50,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-feed
   - jekyll-last-modified-at
+  - jekyll-multiple-languages-plugin
 
 # code block syntax highlighting
 highlighter: rouge
@@ -71,3 +72,7 @@ exclude:
   - README.md
   - LICENSE.md
   - CITATION.cff
+
+# multiple languages plugin 
+
+languages: ["en", "es"]

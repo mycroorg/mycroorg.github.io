@@ -47,13 +47,26 @@
     %}
     {% for page in pages %}
       {% if page.nav %}
+        {% if site.lang == "en" %}
         <a
-          href="{{ page.dir | relative_url }}"
+          href="{{ page.url | relative_url }}"
           data-tooltip="{{ page.nav.tooltip }}"
         >
-          {{ page.title }}
+        {{ page.title }}
+        {% elsif site.lang == "es" %}
+        <a
+        href="{{ page.url | relative_url }}"
+        data-tooltip="{{ page.nav.tooltip_es }}"
+        >
+        {{ page.title_es }}
+      {% endif %}
         </a>
       {% endif %}
     {% endfor %}
+    {% if site.lang == "es" %}
+    <a href=/>🇬🇧 English</a>  
+    {% else %}
+    <a href=/es>🇪🇸 Español</a>
+    {% endif %}
   </nav>
 </header>
