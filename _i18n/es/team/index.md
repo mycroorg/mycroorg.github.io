@@ -5,8 +5,8 @@ En construcción. Esta sección estará lista pronto, ¡gracias por tu paciencia
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: ip, lang: es" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!ip$), lang: es" %}
+{% include list.html data="members" component="portrait" filters="role: ip, lang: es,  alumni: false" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!ip$), lang: es,  alumni: false" %}
 
 {% include section.html background="images/levadura.jpg" dark=true %}
 

@@ -3,6 +3,7 @@ name: Jéssica Gil-Serna
 image: images/photo.jpg
 lang: es
 role: pt
+alumni: false
 aliases:
   - J. Gil-Serna
   - J Gil-Serna

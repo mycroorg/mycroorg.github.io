@@ -3,6 +3,7 @@ name: Jéssica Gil-Serna
 image: images/photo.jpg
 lang: en
 role: fp
+alumni: false
 # affiliation: Complutense University of Madrid
 aliases:
   - J. Gil-Serna

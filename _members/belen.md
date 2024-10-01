@@ -3,6 +3,7 @@ name: Belén Patiño
 image: images/photo.jpg
 lang: en
 role: pi
+alumni: false
 # affiliation: Complutense University of Madrid
 aliases:
   - B. Patino
