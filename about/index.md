@@ -8,3 +8,5 @@ nav:
 permalink: /about/
 permalink_es: /sobre-mycroorg/
 ---
+
+{% translate_file about/index.md %}
