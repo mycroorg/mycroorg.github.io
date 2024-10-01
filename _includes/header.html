@@ -46,6 +46,7 @@
   <input class="nav-toggle" type="checkbox" aria-label="show/hide nav">
 
   {% if page_beg_url == "/members/es_" %}
+  <nav> 
     <a
       href="/es/sobre-mycroorg"
       data-tooltip="¿Qué es MYCROORG?"
@@ -72,6 +73,7 @@
     >CONTACTO
     </a>
     <a href=/>🇬🇧 ENGLISH</a>  
+  </nav>
   {% else %}
   <nav>
     {% assign pages = site.pages
