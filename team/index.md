@@ -7,6 +7,7 @@ nav:
   tooltip_es: Sobre nosotros
 permalink: /team/
 permalink_es: /equipo/
+header: images/headers/team.jpg
 ---
 
 {% translate_file team/index.md %}

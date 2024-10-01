@@ -7,6 +7,7 @@ nav:
   tooltip_es: Herramientas, docencia y más
 permalink: /projects/
 permalink_es: /proyectos/
+header: images/headers/projects.png
 ---
 
 {% translate_file projects/index.md %}
