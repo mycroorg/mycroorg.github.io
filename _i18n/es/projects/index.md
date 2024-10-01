@@ -1,6 +1,6 @@
 # {% include icon.html icon="fa-solid fa-wrench" %}Proyectos
 
-En construcción. Esta sección estará lista pronto, ¡gracias por tu paciencia!
+🚧 En construcción. Esta sección estará lista pronto, ¡gracias por tu paciencia!
 
 {% include tags.html tags="publication, resource, website" %}
 

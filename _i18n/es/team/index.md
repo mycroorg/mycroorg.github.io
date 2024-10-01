@@ -1,7 +1,7 @@
 
 # {% include icon.html icon="fa-solid fa-users" %}Equipo
 
-En construcción. Esta sección estará lista pronto, ¡gracias por tu paciencia!
+🚧 En construcción. Esta sección estará lista pronto, ¡gracias por tu paciencia!
 
 {% include section.html %}
 

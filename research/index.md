@@ -7,6 +7,7 @@ nav:
   tooltip_es: Trabajos publicados
 permalink:      /research/
 permalink_es:   /investigacion/
+header: images/headers/research.jpeg
 ---
 
 {% translate_file research/index.md %}

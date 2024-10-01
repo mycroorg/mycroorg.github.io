@@ -15,4 +15,4 @@ links:
   twitter: belenpmicro
 ---
 
-Página en construcción.
+🚧 Página en construcción.
