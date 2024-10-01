@@ -16,7 +16,12 @@
     data-big
   {% endif %}
 >
+{% assign page_beg_url = page.url | slice: 0, 12 %}
+{% if site.lang == "es" or page_beg_url == "/members/es_" %}
+  <a href="{{ "/es" }}" class="home">
+{% else %}
   <a href="{{ "/" | relative_url }}" class="home">
+{% endif %}
     {% if logo %}
       <span class="logo">
         {% if svg %}
@@ -40,7 +45,6 @@
 
   <input class="nav-toggle" type="checkbox" aria-label="show/hide nav">
 
-  {% assign page_beg_url = page.url | slice: 0, 12 %}
   {% if page_beg_url == "/members/es_" %}
     <a
       href="/es/investigacion"
