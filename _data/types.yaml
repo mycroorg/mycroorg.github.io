@@ -2,9 +2,21 @@
 
 # team member roles
 
+ip:
+  icon: fa-solid fa-microscope
+  description: Investigadora Principal
+
 pi:
   icon: fa-solid fa-microscope
   description: Principal Investigator
+
+fp:
+  icon: fa-solid fa-microscope
+  description: Full Professor
+
+pt:
+  icon: fa-solid fa-microscope
+  description: Profesora Titular
 
 postdoc:
   icon: fa-solid fa-glasses
@@ -91,10 +103,10 @@ github:
   link: https://github.com/$VALUE
 
 twitter:
-  icon: fa-brands fa-twitter
-  text: Twitter
-  tooltip: Twitter
-  link: https://twitter.com/$VALUE
+  icon: fa-brands fa-x-twitter
+  text: X (Twitter)
+  tooltip: X
+  link: https://x.com/$VALUE
 
 facebook:
   icon: fa-brands fa-facebook

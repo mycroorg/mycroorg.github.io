@@ -16,7 +16,12 @@
     data-big
   {% endif %}
 >
+{% assign page_beg_url = page.url | slice: 0, 12 %}
+{% if site.lang == "es" or page_beg_url == "/members/es_" %}
+  <a href="{{ "/es" }}" class="home">
+{% else %}
   <a href="{{ "/" | relative_url }}" class="home">
+{% endif %}
     {% if logo %}
       <span class="logo">
         {% if svg %}
@@ -40,6 +45,34 @@
 
   <input class="nav-toggle" type="checkbox" aria-label="show/hide nav">
 
+  {% if page_beg_url == "/members/es_" %}
+    <a
+      href="/es/sobre-mycroorg"
+      data-tooltip="¿Qué es MYCROORG?"
+    >SOBRE MYCROORG
+    </a>
+    <a
+      href="/es/investigacion"
+      data-tooltip="Trabajos publicados"
+    >INVESTIGACIÓN
+    </a>
+    <a
+      href="/es/proyectos"
+      data-tooltip="Herramientas, docencia y más"
+    >PROYECTOS
+    </a>
+    <a
+      href="/es/equipo"
+      data-tooltip="Sobre nosotros"
+    >EQUIPO
+    </a>
+    <a
+      href="/es/contacto"
+      data-tooltip="Email, localización y contacto"
+    >CONTACTO
+    </a>
+    <a href=/>🇬🇧 ENGLISH</a>  
+  {% else %}
   <nav>
     {% assign pages = site.pages
       | where_exp: "page", "page.nav"
@@ -69,4 +102,5 @@
     <a href=/es>🇪🇸 Español</a>
     {% endif %}
   </nav>
+  {% endif %}
 </header>
