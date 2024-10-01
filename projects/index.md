@@ -2,7 +2,7 @@
 title: Projects
 title_es: Proyectos
 nav:
-  order: 2
+  order: 3
   tooltip: Tools, teaching, and more
   tooltip_es: Herramientas, docencia y más
 permalink: /projects/

@@ -2,7 +2,7 @@
 title: Research
 title_es: Investigación
 nav:
-  order: 1
+  order: 2
   tooltip: Published works
   tooltip_es: Trabajos publicados
 permalink:      /research/

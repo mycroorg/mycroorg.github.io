@@ -2,7 +2,7 @@
 title: Team
 title_es: Equipo
 nav:
-  order: 3
+  order: 4
   tooltip: About our team
   tooltip_es: Sobre nosotros
 permalink: /team/
