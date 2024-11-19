@@ -26,6 +26,14 @@ phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
+phdesf:
+  icon: fa-solid fa-graduation-cap
+  description: Investigadora Predoctoral
+
+phdesm:
+  icon: fa-solid fa-graduation-cap
+  description: Investigador Predoctoral
+
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student

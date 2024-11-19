@@ -6,7 +6,8 @@
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi, lang: en, alumni: false" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$), lang: en, alumni: false" %}
+{% include list.html data="members" component="portrait" filters="role: fp: lang: en, alumni: false" %}
+{% include list.html data="members" component="portrait" filters="role: ^(phdesf|phdesm)$, lang: en, alumni: false" %}
 
 {% include section.html background="images/levadura.jpg" dark=true %}
 
