@@ -11,6 +11,9 @@ aliases:
   - Jessica Gil-Serna
 links:
   orcid: 0000-0002-2113-1830
+  researchgate: Jessica-Gil-Serna
+  google-scholar: -m5nafYAAAAJ
+  linkedin: jessigserna
   twitter: jessigserna
 ---
 

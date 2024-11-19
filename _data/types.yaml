@@ -22,6 +22,14 @@ postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
 
+assprof:
+  icon: fa-solid fa-glasses
+  description: Assistant Professor
+
+ayudoctor:
+  icon: fa-solid fa-glasses
+  description: Profesora Ayudante Doctor
+
 phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
@@ -139,6 +147,12 @@ linkedin:
   text: LinkedIn
   tooltip: LinkedIn
   link: https://www.linkedin.com/in/$VALUE
+
+researchgate:
+  icon: fa-brands fa-researchgate
+  text: ResearchGate
+  tooltip: ResearchGate
+  link: https://www.researchgate.net/profile/$VALUE
 
 # alerts
 

@@ -10,6 +10,8 @@
 
 - [MYCROORG en la web del Departamento de Genética, Fisiología y Microbiología](https://www.ucm.es/gfm/hongos-levaduras)
 
+- [MYCROORG en el Portal de Producción Científica UCM](https://produccioncientifica.ucm.es/grupos/5247/detalle)
+
 - [MYCROORG en la web de la red MICOFOOD](https://micofood.es/hongos-y-levaduras-de-interes-en-agroalimentacion-facultad-de-ciencias-biologicas-universidad-complutense-de-madrid-ucm/)
 
 - [MYCROORG en el directorio de Grupos de Investigación UCM](https://www.ucm.es/grupos/grupo/454)

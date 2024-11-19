@@ -13,6 +13,9 @@ aliases:
   - Carolina Gomez-Albarran
 links:
   orcid: 0000-0001-7307-1633
+  researchgate: Carolina-Gomez-36
+  google-scholar: jlhBPCIAAAAJ
+  linkedin: carolina-gómez-albarrán-442406145
   twitter: CarolGAlbarran
 ---
 
