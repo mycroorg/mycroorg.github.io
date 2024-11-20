@@ -1,5 +1,5 @@
 ---
-name: Clara Melguizo Ávila
+name: Clara Melguizo
 image: images/photo.jpg
 lang: en
 role: phd

@@ -1,5 +1,5 @@
 ---
-name: Carmen Erena Ortega
+name: Carmen Erena
 image: images/photo.jpg
 lang: en
 role: phd

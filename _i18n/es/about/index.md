@@ -14,4 +14,6 @@
 
 - [MYCROORG en la web de la red MICOFOOD](https://micofood.es/hongos-y-levaduras-de-interes-en-agroalimentacion-facultad-de-ciencias-biologicas-universidad-complutense-de-madrid-ucm/)
 
+- [MYCROORG en ResearchGate](https://www.researchgate.net/lab/Mycroorg-Belen-Patino)
+
 - [MYCROORG en el directorio de Grupos de Investigación UCM](https://www.ucm.es/grupos/grupo/454)

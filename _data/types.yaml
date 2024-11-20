@@ -19,8 +19,12 @@ pt:
   description: Profesora Titular
 
 postdoc:
-  icon: fa-solid fa-glasses
+  icon: fa-solid fa-flask-vial
   description: Postdoctoral Researcher
+
+pdesf:
+  icon: fa-solid fa-flask-vial
+  description: Investigadora Posdoctoral
 
 assprof:
   icon: fa-solid fa-glasses
@@ -41,6 +45,10 @@ phdesf:
 phdesm:
   icon: fa-solid fa-graduation-cap
   description: Investigador Predoctoral
+
+phdfinished:
+  icon: fa-solid fa-graduation-cap
+  description: PhD
 
 undergrad:
   icon: fa-solid fa-user-graduate
@@ -153,6 +161,12 @@ researchgate:
   text: ResearchGate
   tooltip: ResearchGate
   link: https://www.researchgate.net/profile/$VALUE
+
+rglab:
+  icon: fa-brands fa-researchgate
+  text: ResearchGate
+  tooltip: ResearchGate
+  link: https://www.researchgate.net/lab/$VALUE
 
 # alerts
 

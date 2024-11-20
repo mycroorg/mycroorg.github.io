@@ -10,9 +10,8 @@ proofer: false
 links:
   # email: contact@mycroorg.com
   twitter: mycroorg
+  rglab: Mycroorg-Belen-Patino
   github: mycroorg
-  orcid: 0000-0001-8568-9270
-  google-scholar: G20p_p8AAAAJ
   # youtube: mycroorg
 
 ### jekyll settings
