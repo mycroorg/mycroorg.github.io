@@ -71,7 +71,7 @@ Somos un grupo dinámico de investigadores, desde estudiantes hasta profesores e
 
 {%
   include feature.html
-  image="images/main_page/honguito.jpg"
+  image="images/mycroorg_team_2.jpg"
   link="equipo"
   title="👩🏻‍🔬  Quiénes somos"
   text=text
@@ -144,7 +144,7 @@ We are a dynamic group of researchers, ranging from enthusiastic students to exp
 
 {%
   include feature.html
-  image="images/main_page/honguito.jpg"
+  image="images/mycroorg_team_2.jpg"
   link="team"
   title="👩🏻‍🔬  Our Team"
   text=text

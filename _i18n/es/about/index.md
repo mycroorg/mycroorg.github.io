@@ -3,8 +3,17 @@
 
 🚧 En construcción. Esta sección estará lista pronto, ¡gracias por tu paciencia!
 
+{% capture col1 %}
+
+{% include figure.html image="images/mycroorg_team.jpg" width="100%" %}
+
+{% endcapture %}
+
+{% capture col2 %}
+
 ## {% include icon.html icon="fa-solid fa-link" %}Enlaces externos
 
+- [MYCROORG en X (Twitter)](https://x.com/mycroorg)
 
 - [MYCROORG en la web de la UCM](https://www.ucm.es/hongos-y-levaduras)
 
@@ -17,3 +26,11 @@
 - [MYCROORG en ResearchGate](https://www.researchgate.net/lab/Mycroorg-Belen-Patino)
 
 - [MYCROORG en el directorio de Grupos de Investigación UCM](https://www.ucm.es/grupos/grupo/454)
+
+{% endcapture %}
+
+{%
+  include cols.html
+  col1=col1
+  col2=col2
+%}
