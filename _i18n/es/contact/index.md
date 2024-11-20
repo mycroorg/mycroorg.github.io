@@ -1,18 +1,19 @@
 # {% include icon.html icon="fa-regular fa-envelope" %}Contacto
 
-🚧 En construcción. Esta sección estará lista pronto, ¡gracias por tu paciencia!
+Nuestro grupo forma parte del [Departamento de Genética, Fisiología y Microbiología](https://www.ucm.es/gfm/) de la [Universidad Complutense de Madrid](https://www.ucm.es/). Puedes encontrarnos en el Laboratorio 7 de la planta 11 de la [Facultad de Ciencias Biológicas](https://biologicas.ucm.es/).
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="belenp@ucm.es"
+  link="belenp@ucm.es"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="(+34) 91 394 49 69"
+  tooltip="Teléfono"
+  link="+34-913944969"
 %}
 {%
   include button.html

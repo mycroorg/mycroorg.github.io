@@ -1,6 +1,6 @@
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-🚧 Under construction. This section will be available soon. Thank you for your patience!
+We are part of the [Complutense Univeristy of Madrid](https://www.ucm.es/)'s [Department of Genetics, Physiology and Microbiology](https://www.ucm.es/gfm/). You can find us on Laboratory 7, 11th Floor of the [Biological Sciences Faculty](https://biologicas.ucm.es/).
 
 {%
   include button.html

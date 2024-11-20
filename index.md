@@ -46,7 +46,7 @@ Nuestro trabajo incluye artículos científicos, proyectos, contratos con empres
 
 {%
   include feature.html
-  image="images/main_page/otra_levadura.jpg"
+  image="images/divulgacion.jpeg"
   link="proyectos"
   title="💡  Proyectos y divulgación"
   flip=true
@@ -56,7 +56,7 @@ Nuestro trabajo incluye artículos científicos, proyectos, contratos con empres
 
 {% capture text %}
 
-Somos un grupo dinámico de investigadores, desde estudiantes hasta profesores experimentados, unidos por el fascinante mundo de los hongos. Nuestro enfoque colaborativo contribuye a resolver un reto del mundo real: eliminar las micotoxinas de los alimentos.
+Somos un grupo dinámico de investigadores, desde estudiantes hasta profesores experimentados, unidos por el fascinante mundo de los hongos. Contribuimos a resolver un reto del mundo real: eliminar las micotoxinas de los alimentos.
 
 {%
   include button.html
@@ -119,7 +119,7 @@ Our work includes scientific publications, projects, contracts with companies an
 
 {%
   include feature.html
-  image="images/main_page/otra_levadura.jpg"
+  image="images/divulgacion.jpeg"
   link="projects"
   title="💡  Projects and Science Communication"
   flip=true
@@ -129,7 +129,7 @@ Our work includes scientific publications, projects, contracts with companies an
 
 {% capture text %}
 
-We are a dynamic group of researchers, ranging from enthusiastic students to experienced full professors, united by the fascinating world of fungi. Our collaborative approach contributes to solving a real-world challenge: eliminating mycotoxins from food.
+We are a dynamic group of researchers, ranging from enthusiastic students to experienced full professors, united by the fascinating world of fungi. We contribute to solving a real-world challenge: eliminating mycotoxins from food.
 
 {%
   include button.html
