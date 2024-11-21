@@ -8,12 +8,12 @@
 
 {% include section.html %}
 
-## Featured
+## {% include icon.html icon="fa-solid fa-eye-dropper" %}Líneas de investigación
 
-{% include list.html component="card" data="projects" filters="group: featured" %}
+{% include list.html component="card" data="projects" filters="group: es" %}
 
 {% include section.html %}
 
-## More
+## {% include icon.html icon="fa-solid fa-bullhorn" %}Divulgación científica
 
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
+{% include list.html component="card" data="projects" filters="group: " %}

@@ -1,12 +1,18 @@
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Genetic profiling of mycotoxin production
+  group: en
+  image: images/genetics.png
+  link: lines/genetics
   tags:
-    - resource
+    - genetics
+    - cluster
+
+- title: Caracterización genética de la producción de micotoxinas
+  group: es
+  image: images/genetics.png
+  link: lines/es_genetics
+  tags:
+    - genetics
+    - cluster
 
 - title: Cool Package
   subtitle: a subtitle
