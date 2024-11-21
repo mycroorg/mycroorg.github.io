@@ -15,7 +15,7 @@
 
 ## {% include icon.html icon="fa-solid fa-timeline" %}Antiguos miembros
 
-{% include list.html data="members" component="portrait" style="small" filters="lang: es, alumni: true" %}
+{% include list.html data="members" component="portrait" filters="lang: es, alumni: true" %}
 
 {% include section.html background="images/levadura.jpg" dark=true %}
 

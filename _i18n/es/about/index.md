@@ -15,6 +15,8 @@
 
 - [MYCROORG en X (Twitter)](https://x.com/mycroorg)
 
+- [MYCROORG en SEM@foro](https://www.semicrobiologia.org/wp-content/uploads/2023/07/5l.-Especial-Microbiologia-de-los-Alimentos.-@mycoorg-trabajando-para-conseguir-alimentos-libres-de-micotoxinas.-SEM_75_web.pdf)
+
 - [MYCROORG en la web de la UCM](https://www.ucm.es/hongos-y-levaduras)
 
 - [MYCROORG en la web del Departamento de Genética, Fisiología y Microbiología](https://www.ucm.es/gfm/hongos-levaduras)

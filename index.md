@@ -56,7 +56,7 @@ Nuestro trabajo incluye artículos científicos, proyectos, contratos con empres
 
 {% capture text %}
 
-Somos un grupo dinámico de investigadores, desde estudiantes hasta profesores experimentados, unidos por el fascinante mundo de los hongos. Contribuimos a resolver un reto del mundo real: eliminar las micotoxinas de los alimentos.
+Somos un grupo amplio de investigadores, desde estudiantes hasta profesores experimentados, unidos por el fascinante mundo de los hongos. Contribuimos a resolver un reto del mundo real: eliminar las micotoxinas de los alimentos.
 
 {%
   include button.html
