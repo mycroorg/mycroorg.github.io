@@ -46,7 +46,7 @@ Nuestro trabajo incluye artículos científicos, proyectos, contratos con empres
 
 {%
   include feature.html
-  image="images/divulgacion.jpeg"
+  image="images/divulgacion.jpg"
   link="proyectos"
   title="💡  Proyectos y divulgación"
   flip=true
@@ -119,7 +119,7 @@ Our work includes scientific publications, projects, contracts with companies an
 
 {%
   include feature.html
-  image="images/divulgacion.jpeg"
+  image="images/divulgacion.jpg"
   link="projects"
   title="💡  Projects and Science Communication"
   flip=true

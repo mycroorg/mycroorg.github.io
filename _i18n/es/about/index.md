@@ -3,7 +3,7 @@
 
 {% capture col1 %}
 
-Nuestro grupo de investigación forma parte del Departamento de Genética, Fisiología y Microbiología de la Universidad Complutense de Madrid y lleva más de 20 años dedicado al estudio de las micotoxinas y sus hongos productores. Las micotoxinas son metabolitos secundarios fúngicos cuya presencia en los alimentos supone un grave riesgo para la seguridad alimentaria. La exposición crónica a micotoxinas puede llevar a la aparición de patologías que incluyen el desarrollo de tumores. Teniendo en cuenta su importancia, nuestro grupo de investigación está centrado en el estudio de las principales micotoxinas incluyendo aflatoxinas, ocratoxina A, fumonisinas y tricotecenos.
+Nuestro grupo de investigación forma parte del [Departamento de Genética, Fisiología y Microbiología](https://www.ucm.es/gfm/) de la [Universidad Complutense de Madrid](https://www.ucm.es/) y lleva más de 20 años dedicado al estudio de las micotoxinas y sus hongos productores. Las micotoxinas son metabolitos secundarios fúngicos cuya presencia en los alimentos supone un grave riesgo para la seguridad alimentaria. La exposición crónica a micotoxinas puede llevar a la aparición de patologías que incluyen el desarrollo de tumores. Teniendo en cuenta su importancia, nuestro grupo de investigación está centrado en el estudio de las principales micotoxinas incluyendo aflatoxinas, ocratoxina A, fumonisinas y tricotecenos.
 
 {% endcapture %}
 

@@ -46,4 +46,5 @@ We are part of the [Complutense Univeristy of Madrid](https://www.ucm.es/)'s [De
 {%
   include figure.html
   image="images/logo_UCM.png"
+  width="70%"
 %}

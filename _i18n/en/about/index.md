@@ -4,7 +4,7 @@
 
 {% capture col1 %}
 
-Our group is part of the Department of Genetics, Physiology and Microbiology of the Complutense University of Madrid and has been dedicated to the study of mycotoxins and toxigenic fungi for more than 20 years. Mycotoxins are fungal secondary metabolites whose presence in food poses a serious risk to food safety. Chronic exposure to mycotoxins can lead to pathologies including tumour development. Considering their importance, our research group is focused on the study of the main mycotoxins including aflatoxins, ochratoxin A, fumonisins and trichothecenes.
+Our group is part of the [Department of Genetics, Physiology and Microbiology](https://www.ucm.es/gfm/) of the [Complutense University of Madrid](https://www.ucm.es/) and has been dedicated to the study of mycotoxins and toxigenic fungi for more than 20 years. Mycotoxins are fungal secondary metabolites whose presence in food poses a serious risk to food safety. Chronic exposure to mycotoxins can lead to pathologies including tumour development. Considering their importance, our research group is focused on the study of the main mycotoxins including aflatoxins, ochratoxin A, fumonisins and trichothecenes.
 
 {% endcapture %}
 

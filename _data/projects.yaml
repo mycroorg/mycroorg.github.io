@@ -1,53 +1,96 @@
 - title: Genetic profiling of mycotoxin production
   group: en
+  divul: false
   image: images/genetics.png
   link: lines/genetics
-  tags:
-    - genetics
-    - cluster
 
 - title: Caracterización genética de la producción de micotoxinas
   group: es
+  divul: false
   image: images/genetics.png
   link: lines/es_genetics
-  tags:
-    - genetics
-    - cluster
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+- title: Methods for sustainable control
+  group: en
+  divul: false
+  image: images/control.png
+  link: lines/control
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
+- title: Métodos para un control sostenible
+  group: es
+  divul: false
+  image: images/control.png
+  link: lines/es_control
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+- title: Biological detoxification
+  group: en
+  divul: false
+  image: images/Kluyveromyces.jpg
+  link: lines/detox
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+- title: Detoxificación biológica
+  group: es
+  divul: false
+  image: images/Kluyveromyces.jpg
+  link: lines/es_detox
+
+- title: Metataxonomics for the study of toxigenic fungi
+  group: en
+  divul: false
+  image: images/metataxonomics.png
+  link: lines/metataxonomics
+
+- title: Metataxonomía para el estudio de hongos toxígenos
+  group: es
+  divul: false
+  image: images/metataxonomics.png
+  link: lines/es_metataxonomics
+
+- title: "@mycroorg"
+  subtitle: Science Communcation on social networks
+  group: en
+  divul: true
+  image: images/twitter.png
+  link: https://x.com/mycroorg
+  description: X (Twitter) account on which we disseminate the results of our research.
+
+- title: "@mycroorg"
+  subtitle: Divulgación científica en redes sociales
+  group: es
+  divul: true
+  image: images/twitter.png
+  link: https://x.com/mycroorg
+  description: Cuenta de X (Twitter) en la que divulgamos los resultados de nuestra investigación.
+
+
+- title: Small World Initiative
+  subtitle: Aprendizaje-Servicio Project (ApS)
+  group: en
+  divul: true
+  image: images/micromundo.jpg
+  link: https://www.ucm.es/small-world-initiative
+  description: Divulgation project on antibiotic resistance. Under the tutelage of UCM undergraduate and master students, school students process soil samples and isolate microorganisms with antibiotic activity.
+
+- title: MicroMundo
+  subtitle: Proyecto Aprendizaje-Servicio (ApS)
+  group: es
+  divul: true
+  image: images/micromundo.jpg
+  link: https://www.ucm.es/small-world-initiative
+  description: Proyecto de divulgación de la resistencia a antibióticos. Tutorizados por alumnos de Grado y Máster de la UCM, estudiantes de ESO y Bachillerato procesan muestras de suelo y aíslan microorganismos con actividad antibiótica.
+
+- title: Esto va de Micro
+  subtitle: Podcast
+  group: en
+  divul: true
+  image: images/podcast.jpeg
+  link: https://open.spotify.com/show/0GmakLNqlvIjTg45qbw5CC
+  description: "Podcast in which UCM students interview Microbiology researchers. Available on [iVoox](https://www.ivoox.com/podcast-esto-va-micro_sq_f11520391_1.html) and [Spotify](https://open.spotify.com/show/0GmakLNqlvIjTg45qbw5CC)."
+
+- title: Esto va de Micro
+  subtitle: Pódcast
+  group: es
+  divul: true
+  image: images/podcast.jpeg
+  link: https://open.spotify.com/show/0GmakLNqlvIjTg45qbw5CC
+  description: "Pódcast de Microbiología en el que estudiantes de la UCM entrevistan a investigadores. Disponible en [iVoox](https://www.ivoox.com/podcast-esto-va-micro_sq_f11520391_1.html) y [Spotify](https://open.spotify.com/show/0GmakLNqlvIjTg45qbw5CC)."

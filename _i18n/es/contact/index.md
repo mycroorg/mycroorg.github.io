@@ -48,4 +48,5 @@ Nuestro grupo forma parte del [Departamento de Genética, Fisiología y Microbio
 {%
   include figure.html
   image="images/logo_UCM.png"
+  width="70%"
 %}
