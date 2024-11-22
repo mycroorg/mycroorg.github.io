@@ -13,6 +13,7 @@ aliases:
   - S Rodriguez-Pires
   - Silvia Rodriguez-Pires
 links:
+  emailsilvia: silvia.rodriguez.pires@gmail.com
   orcid: 0000-0001-7482-1715
   google-scholar: lkEuvjIAAAAJ
   linkedin: silviarodriguezpires

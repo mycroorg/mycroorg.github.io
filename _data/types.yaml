@@ -106,6 +106,80 @@ search:
   text: Search
   tooltip: Search
 
+# custom emails for member pages
+
+emailbelen:
+  icon: fa-solid fa-envelope
+  text: belenp@ucm.es
+  tooltip: Email
+  link: mailto:$VALUE
+
+emailcova:
+  icon: fa-solid fa-envelope
+  text: covi@ucm.es
+  tooltip: Email
+  link: mailto:$VALUE
+
+emailjessi:
+  icon: fa-solid fa-envelope
+  text: jgilsern@ucm.es
+  tooltip: Email
+  link: mailto:$VALUE
+
+emailmariela:
+  icon: fa-solid fa-envelope
+  text: malvar54@ucm.es
+  tooltip: Email
+  link: mailto:$VALUE
+
+emailcarmen:
+  icon: fa-solid fa-envelope
+  text: cerena@ucm.es
+  tooltip: Email
+  link: mailto:$VALUE
+
+emailcarol:
+  icon: fa-solid fa-envelope
+  text: caroli13@ucm.es
+  tooltip: Email
+  link: mailto:$VALUE
+
+emailclara:
+  icon: fa-solid fa-envelope
+  text: claramel@ucm.es
+  tooltip: Email
+  link: mailto:$VALUE
+
+emailnuria:
+  icon: fa-solid fa-envelope
+  text: nugarc09@ucm.es
+  tooltip: Email
+  link: mailto:$VALUE
+
+emailsergio:
+  icon: fa-solid fa-envelope
+  text: salias@ucm.es
+  tooltip: Email
+  link: mailto:$VALUE
+
+emailmaria:
+  icon: fa-solid fa-envelope
+  text: arias.maria@inia.es
+  tooltip: Email
+  link: mailto:$VALUE
+
+emailmarta:
+  icon: fa-solid fa-envelope
+  text: martag.diaz@inia.csic.es
+  tooltip: Email
+  link: mailto:$VALUE
+
+emailsilvia:
+  icon: fa-solid fa-envelope
+  text: silvia.rodriguez.pires@gmail.com
+  tooltip: Email
+  link: mailto:$VALUE
+
 # social media
 
 orcid:

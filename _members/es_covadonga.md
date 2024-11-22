@@ -13,6 +13,7 @@ aliases:
   - C Vazquez
   - Covadonga Vazquez
 links:
+  emailcova: covi@ucm.es
   orcid: 0000-0002-7519-9224
   researchgate: Covadonga-Vazquez-3
   google-scholar: mpCT7lgAAAAJ

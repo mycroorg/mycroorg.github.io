@@ -1,7 +1,7 @@
 
 # {% include icon.html icon="fa-solid fa-users" %}Equipo
 
-🚧 En construcción. Esta sección estará lista pronto, ¡gracias por tu paciencia!
+En esta sección encontrarás información sobre los miembros de MYCROORG. Haz click en los perfiles para ver más detalles. 
 
 {% include section.html %}
 
@@ -10,16 +10,20 @@
 {% include list.html data="members" component="portrait" filters="role: ayudoctor, lang: es,  alumni: false" %}
 {% include list.html data="members" component="portrait" filters="role: ^(phdesf|phdesm)$, lang: es,  alumni: false" %}
 
-{% include section.html background="images/levadura.jpg" dark=true %}
+
 {% include section.html %}
 
 ## {% include icon.html icon="fa-solid fa-timeline" %}Antiguos miembros
 
+Aquí encontrarás a los antiguos miembros de MYCROORG. Actualmente continúan destacando en la academia, la industria y más allá.
+
 {% include list.html data="members" component="portrait" filters="lang: es, alumni: true" %}
 
-{% include section.html background="images/levadura.jpg" dark=true %}
-
 {% include section.html %}
+
+## {% include icon.html icon="fa-solid fa-school" %}Estudiantes y más
+
+MYCROORG también está formado por estudiantes de Grado, Máster, técnicos de laboratorio, alumnos de prácticas y muchos más. Aquí encontraras una lista de todos ellos.
 
 {% capture col1 %}
 #### {% include icon.html icon="fa-solid fa-book" %}TFG

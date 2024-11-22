@@ -1,7 +1,7 @@
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-🚧 Under construction. This section will be available soon. Thank you for your patience!
+In this section you will find information about MYCROORG members. Click on the profiles to see more details. 
 
 {% include section.html %}
 
@@ -10,16 +10,19 @@
 {% include list.html data="members" component="portrait" filters="role: assprof: lang: en, alumni: false" %}
 {% include list.html data="members" component="portrait" filters="role: phd, lang: en, alumni: false" %}
 
-{% include section.html background="images/levadura.jpg" dark=true %}
 {% include section.html %}
 
 ## {% include icon.html icon="fa-solid fa-timeline" %}Past members
 
+Here you will find the past members of MYCROORG. Today, they continue to shine in academia, industry and beyond.
+
 {% include list.html data="members" component="portrait" filters="lang: en, alumni: true" %}
 
-{% include section.html background="images/levadura.jpg" dark=true %}
-
 {% include section.html %}
+
+## {% include icon.html icon="fa-solid fa-school" %}Students and more
+
+MYCROORG is also formed by BSc and MSc students, lab technicians, trainees and more. Here you will find a list of all of them.
 
 {% capture col1 %}
 #### {% include icon.html icon="fa-solid fa-book" %}BSc thesis

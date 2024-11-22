@@ -11,6 +11,7 @@ aliases:
   - Jéssica Gil-Serna
   - Jessica Gil-Serna
 links:
+  emailjessi: jgilsern@ucm.es
   orcid: 0000-0002-2113-1830
   researchgate: Jessica-Gil-Serna
   google-scholar: -m5nafYAAAAJ

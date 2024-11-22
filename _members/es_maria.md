@@ -13,6 +13,7 @@ aliases:
   -  M Arias-Martin
   -  Maria Arias-Martin
 links:
+  emailmaria: arias.maria@inia.es
   researchgate: Maria-Arias-Martin
   linkedin: maría-arias-martín-47081945
 ---

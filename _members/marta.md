@@ -12,6 +12,7 @@ aliases:
   - M Garcia-Diaz
   - Marta Garcia-Diaz
 links:
+  emailmarta: martag.diaz@inia.csic.es
   orcid: 0000-0003-3848-8235
   researchgate: Marta-Garcia-Diaz-2
   google-scholar: y9s964AAAAAJ
