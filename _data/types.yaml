@@ -90,6 +90,18 @@ email:
   tooltip: Email
   link: mailto:$VALUE
 
+producmen:
+  icon: fa-solid fa-flask
+  text: UCM Scientific Production
+  tooltip: Scientific Production Portal
+  link: https://produccioncientifica.ucm.es/investigadores/$VALUE/detalle?lang=en
+
+producmes:
+  icon: fa-solid fa-flask
+  text: Producción Científica UCM
+  tooltip: Portal de Producción Científica
+  link: https://produccioncientifica.ucm.es/investigadores/$VALUE/detalle?lang=es
+
 phone:
   icon: fa-solid fa-phone
   text: Phone Number

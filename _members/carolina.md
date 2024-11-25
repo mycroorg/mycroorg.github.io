@@ -13,6 +13,7 @@ aliases:
   - Carolina Gomez-Albarran
 links:
   emailcarol: caroli13@ucm.es
+  producmen: "187926"
   orcid: 0000-0001-7307-1633
   researchgate: Carolina-Gomez-36
   google-scholar: jlhBPCIAAAAJ
