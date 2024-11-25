@@ -43,3 +43,51 @@
 
 - id: doi:10.1016/j.fm.2019.02.013
   image: https://upload.wikimedia.org/wikipedia/commons/a/ae/Aspergillus_niger_Micrograph.jpg
+
+- id: doi:10.1007/s10123-019-00084-2
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs10123-019-00084-2/MediaObjects/10123_2019_84_Fig1_HTML.png
+
+- id: doi:10.1016/j.ijfoodmicro.2018.06.017
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0168160518303222-gr3.jpg
+
+- id: doi:10.1093/femsle/fny161
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/femsle/365/17/10.1093_femsle_fny161/1/m_fny161fig1.jpeg?Expires=1735556875&Signature=ZLAAoeR6BYtSygl~O~8cdjtstzr0VmwvuLsYVaGfnJUY6EX0Vy-~ZwJXp08IBvl~jmgzKJp9C2HHFDsaLQsm8bt6OIn4pLQ3W4gAdvRUJbx9Yb9etjWWEg9PnWa4b9IFigy4I0L8IJ9q24ixlqxvAyEnvjP7XWy-YWikboNL9yJo8R7T5xKvcJG5adKoDAd1Di3Hg2OSFM3I1Mb-KnV6SHtU1HRWHu7dREVlRsGmqCdqC9d2Z7P3lrrukgXENmtHf16H3~okL15V1CgwdFtfFFACtgrJ-SONs2Xmoipj6yAq098bmmHjRpRyc7iObRhcIj~gLBp9xtH3rBPPNUZ7eg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+
+- id: doi:10.1016/j.ijfoodmicro.2017.12.028
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0168160517305573-gr1.jpg
+
+- id: doi:10.3390/beverages4010006
+  image: https://pub.mdpi-res.com/beverages/beverages-04-00006/article_deploy/html/images/beverages-04-00006-g002.png?1569787388
+
+- id: doi:10.1007/978-1-4939-6707-0_15
+  image: images/main_page/aspergillus.jpg
+
+- id: doi:10.1007/978-1-4939-6707-0_8
+  image: https://upload.wikimedia.org/wikipedia/commons/d/db/Fusarium_solani_%28257_25%29_Cultured_and_stained_deuteromycetes.jpg
+
+- id: doi:10.5423/PPJ.OA.03.2016.0063
+  image: https://www.ppjonline.org/upload/thumbnails/ppj-32-388f1.gif
+
+- id: doi:10.1016/j.aca.2016.06.009
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0003267016307711-fx1.jpg
+
+- id: doi:10.1007/s10658-016-0897-7
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs10658-016-0897-7/MediaObjects/10658_2016_897_Fig1_HTML.gif?as=webp
+
+- id: doi:10.1016/j.ijfoodmicro.2015.07.020
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S016816051530074X-gr1.jpg
+
+- id: doi:10.1094/PDIS-11-14-1195-PDN
+  image: https://upload.wikimedia.org/wikipedia/commons/c/ca/Botrytis_rot_%28Botrytis_allii%29_Munn.jpg?20170621113243
+
+- id: doi:10.1016/j.fm.2014.07.013
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0740002014001877-gr1.jpg
+
+- id: doi:10.1002/jsfa.6876
+  image: https://scijournals.onlinelibrary.wiley.com/cms/asset/45af905a-09c7-4d5a-afce-534d5e05630c/jsfa6876-fig-0001-m.jpg
+
+- id: doi:10.1016/j.foodres.2014.01.058
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0963996914000751-gr1.jpg
+
+- id: doi:10.1016/B978-0-12-384730-0.00234-2
+  image: images/main_page/hongo_nuria.jpg
