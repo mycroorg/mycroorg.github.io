@@ -8,6 +8,7 @@ In this section you will find information about MYCROORG members. Click on the p
 {% include list.html data="members" component="portrait" filters="role: pi, lang: en, alumni: false" %}
 {% include list.html data="members" component="portrait" filters="role: fp: lang: en, alumni: false" %}
 {% include list.html data="members" component="portrait" filters="role: assprof: lang: en, alumni: false" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc: lang: en, alumni: false" %}
 {% include list.html data="members" component="portrait" filters="role: phd, lang: en, alumni: false" %}
 
 {% include section.html %}

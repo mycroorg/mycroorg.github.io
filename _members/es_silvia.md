@@ -3,7 +3,7 @@ name: Silvia Rodríguez-Pires
 image: images/photo.jpg
 lang: es
 role: pdesf
-alumni: true
+alumni: false
 # affiliation: Complutense University of Madrid
 aliases:
   - S. Rodríguez-Pires

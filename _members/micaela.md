@@ -1,5 +1,5 @@
 ---
-name: Mariela Álvarez
+name: Micaela Álvarez
 image: images/photo.jpg
 lang: en
 role: assprof
