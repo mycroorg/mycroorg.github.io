@@ -21,11 +21,17 @@ Los hongos son el centro de nuestra investigación. Buscamos comprender la biolo
 
 {% endcapture %}
 
+{% capture researchtitlees %}
+
+{% include icon.html icon="fa-solid fa-microscope" %} &nbsp;Investigación
+
+{% endcapture %}
+
 {%
   include feature.html
   image="images/main_page/aspergillus.jpg"
-  link="inevstigacion"
-  title="🔬  Investigación"
+  link="investigacion"
+  title=researchtitlees
   text=text
 %}
 
@@ -44,11 +50,17 @@ Nuestro trabajo incluye artículos científicos, proyectos, contratos con empres
 
 {% endcapture %}
 
+{% capture projectstitlees %}
+
+{% include icon.html icon="fa-solid fa-lightbulb" %} &nbsp;Proyectos y divulgación
+
+{% endcapture %}
+
 {%
   include feature.html
   image="images/divulgacion.jpg"
   link="proyectos"
-  title="💡  Proyectos y divulgación"
+  title=projectstitlees
   flip=true
   style="bare"
   text=text
@@ -69,11 +81,17 @@ Somos un grupo amplio de investigadores, desde estudiantes hasta profesores expe
 
 {% endcapture %}
 
+{% capture teamtitlees %}
+
+{% include icon.html icon="fa-solid fa-users" %} &nbsp;Quiénes somos
+
+{% endcapture %}
+
 {%
   include feature.html
   image="images/mycroorg_team_2.jpg"
   link="equipo"
-  title="👩🏻‍🔬  Quiénes somos"
+  title=teamtitlees
   text=text
 %}
 
@@ -94,11 +112,17 @@ Fungi constitute the core of our scientific research. We seek to understand the 
 
 {% endcapture %}
 
+{% capture researchtitleen %}
+
+{% include icon.html icon="fa-solid fa-microscope" %} &nbsp;Research
+
+{% endcapture %}
+
 {%
   include feature.html
   image="images/main_page/aspergillus.jpg"
   link="research"
-  title="🔬  Research"
+  title=researchtitleen
   text=text
 %}
 
@@ -117,11 +141,17 @@ Our work includes scientific publications, projects, contracts with companies an
 
 {% endcapture %}
 
+{% capture projectstitleen %}
+
+{% include icon.html icon="fa-solid fa-lightbulb" %} &nbsp;Projects and Science Communication
+
+{% endcapture %}
+
 {%
   include feature.html
   image="images/divulgacion.jpg"
   link="projects"
-  title="💡  Projects and Science Communication"
+  title=projectstitleen
   flip=true
   style="bare"
   text=text
@@ -142,11 +172,17 @@ We are a dynamic group of researchers, ranging from enthusiastic students to exp
 
 {% endcapture %}
 
+{% capture teamtitleen %}
+
+{% include icon.html icon="fa-solid fa-users" %} &nbsp;Our team
+
+{% endcapture %}
+
 {%
   include feature.html
   image="images/mycroorg_team_2.jpg"
   link="team"
-  title="👩🏻‍🔬  Our Team"
+  title=teamtitleen
   text=text
 %}
 
