@@ -30,6 +30,7 @@ Nuestro grupo forma parte del [Departamento de Genética, Fisiología y Microbio
 {%
   include figure.html
   image="images/logo_bio.jpg"
+  link="https://biologicas.ucm.es/"
 %}
 
 {% endcapture %}
@@ -39,6 +40,7 @@ Nuestro grupo forma parte del [Departamento de Genética, Fisiología y Microbio
 {%
   include figure.html
   image="images/foto_bio.jpg"
+  link="https://www.ucm.es/gfm/"
 %}
 
 {% endcapture %}
@@ -48,5 +50,6 @@ Nuestro grupo forma parte del [Departamento de Genética, Fisiología y Microbio
 {%
   include figure.html
   image="images/logo_UCM.png"
+  link="https://www.ucm.es/"
   width="70%"
 %}

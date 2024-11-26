@@ -28,6 +28,7 @@ We are part of the [Complutense Univeristy of Madrid](https://www.ucm.es/)'s [De
 {%
   include figure.html
   image="images/logo_bio.jpg"
+  link="https://biologicas.ucm.es/"
 %}
 
 {% endcapture %}
@@ -37,6 +38,7 @@ We are part of the [Complutense Univeristy of Madrid](https://www.ucm.es/)'s [De
 {%
   include figure.html
   image="images/foto_bio.jpg"
+  link="https://www.ucm.es/gfm/"
 %}
 
 {% endcapture %}
@@ -46,5 +48,6 @@ We are part of the [Complutense Univeristy of Madrid](https://www.ucm.es/)'s [De
 {%
   include figure.html
   image="images/logo_UCM.png"
+  link="https://www.ucm.es/"
   width="70%"
 %}
