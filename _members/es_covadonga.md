@@ -22,4 +22,8 @@ links:
   twitter: covi75837311
 ---
 
-🚧 Página en construcción.
+{%
+  include alert.html
+  type="building"
+  content="Sección en construcción. ¡Gracias por tu paciencia!"
+%}

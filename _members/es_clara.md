@@ -18,4 +18,8 @@ links:
   twitter: ClaraMelguizo_
 ---
 
-🚧 Página en construcción.
+{%
+  include alert.html
+  type="building"
+  content="Sección en construcción. ¡Gracias por tu paciencia!"
+%}

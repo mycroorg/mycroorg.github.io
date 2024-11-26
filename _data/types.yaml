@@ -280,6 +280,10 @@ error:
   icon: fa-solid fa-ban
   color: "#ef4444"
 
+building:
+  icon: fa-solid fa-person-digging
+  color: "#0ea5e9"
+
 # publications
 
 paper:

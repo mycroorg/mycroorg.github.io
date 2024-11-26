@@ -19,4 +19,8 @@ links:
   google-scholar: y9s964AAAAAJ
 ---
 
-🚧 Página en construcción.
+{%
+  include alert.html
+  type="building"
+  content="Sección en construcción. ¡Gracias por tu paciencia!"
+%}

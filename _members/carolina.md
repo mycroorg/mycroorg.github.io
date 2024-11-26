@@ -21,4 +21,8 @@ links:
   twitter: CarolGAlbarran
 ---
 
-🚧 Under construction.
+{%
+  include alert.html
+  type="building"
+  content="Section under construction. Thank you for your patience!"
+%}

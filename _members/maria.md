@@ -18,4 +18,8 @@ links:
   linkedin: maría-arias-martín-47081945
 ---
 
-🚧 Under construction.
+{%
+  include alert.html
+  type="building"
+  content="Section under construction. Thank you for your patience!"
+%}

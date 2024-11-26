@@ -19,4 +19,8 @@ links:
   google-scholar: y9s964AAAAAJ
 ---
 
-🚧 Under construction.
+{%
+  include alert.html
+  type="building"
+  content="Section under construction. Thank you for your patience!"
+%}
