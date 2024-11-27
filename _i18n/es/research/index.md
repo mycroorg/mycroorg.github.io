@@ -4,7 +4,7 @@ El conocimiento crece cuando se comparte. Aquí encontrarás una lista de todas 
 
 {% include section.html %}
 
-## ✨ Artículo destacado
+## {% include icon.html icon="fa-solid fa-wand-magic-sparkles" %}Artículo destacado
 
 {% include citation.html lookup="The relevance of genomics in food mycology with a focus on food safety" style="rich" %}
 

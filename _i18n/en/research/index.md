@@ -4,7 +4,7 @@ Knowledge grows when it is shared. Here you will find a list of all the articles
 
 {% include section.html %}
 
-## ✨ Highlighted
+## {% include icon.html icon="fa-solid fa-wand-magic-sparkles" %}Highlighted
 
 {% include citation.html lookup="The relevance of genomics in food mycology with a focus on food safety" style="rich" %}
 
