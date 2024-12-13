@@ -1,6 +1,6 @@
 ---
 name: Marta García-Díaz
-image: images/photo.jpg
+image: images/pfp/pfp_marta.jpg
 lang: es
 role: phdfinished
 alumni: true

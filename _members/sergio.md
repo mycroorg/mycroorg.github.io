@@ -1,6 +1,6 @@
 ---
 name: Sergio Alías-Segura
-image: images/photo.jpg
+image: images/pfp/pfp_sergio.jpg
 lang: en
 role: phd
 alumni: false

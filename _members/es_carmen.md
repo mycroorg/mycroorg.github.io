@@ -1,6 +1,6 @@
 ---
 name: Carmen Erena
-image: images/photo.jpg
+image: images/pfp/pfp_carmen.jpg
 lang: es
 role: phdesf
 alumni: false
