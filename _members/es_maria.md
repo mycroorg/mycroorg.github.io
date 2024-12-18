@@ -1,6 +1,6 @@
 ---
 name: María Arias-Martín
-image: images/photo.jpg
+image: images/pfp/pfp_maria.jpeg
 lang: es
 role: phdfinished
 alumni: true

@@ -1,6 +1,6 @@
 ---
 name: Micaela Álvarez
-image: images/photo.jpg
+image: images/pfp/pfp_micaela.png
 lang: es
 role: ayudoctor
 alumni: false

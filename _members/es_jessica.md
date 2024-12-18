@@ -1,6 +1,6 @@
 ---
 name: Jéssica Gil-Serna
-image: images/photo.jpg
+image: images/pfp/pfp_jessica.jpg
 lang: es
 role: pt
 alumni: false

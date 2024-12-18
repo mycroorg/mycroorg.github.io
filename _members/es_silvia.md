@@ -1,6 +1,6 @@
 ---
 name: Silvia Rodríguez-Pires
-image: images/photo.jpg
+image: images/pfp/pfp_silvia.jpg
 lang: es
 role: pdesf
 alumni: false

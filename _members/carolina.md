@@ -1,6 +1,6 @@
 ---
 name: Carolina Gómez-Albarrán
-image: images/photo.jpg
+image: images/pfp/pfp_carolina.jpeg
 lang: en
 role: phd
 alumni: false

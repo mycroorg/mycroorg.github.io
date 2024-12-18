@@ -1,6 +1,6 @@
 ---
 name: Clara Melguizo
-image: images/photo.jpg
+image: images/pfp/pfp_clara.jpg
 lang: en
 role: phd
 alumni: false

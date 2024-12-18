@@ -1,6 +1,6 @@
 ---
 name: Covadonga Vázquez
-image: images/photo.jpg
+image: images/pfp/pfp_covadonga.jpg
 lang: en
 role: pi
 alumni: false

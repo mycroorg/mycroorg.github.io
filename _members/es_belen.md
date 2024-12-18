@@ -1,6 +1,6 @@
 ---
 name: Belén Patiño
-image: images/photo.jpg
+image: images/pfp/pfp_belen.jpg
 lang: es
 role: ip
 alumni: false
