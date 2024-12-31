@@ -216,13 +216,13 @@ We are a dynamic group of researchers, ranging from enthusiastic students to exp
 
 {% capture tweet3 %}
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">En la IX Reunión de la Red Micofood, desde <a href="https://twitter.com/mycroorg?ref_src=twsrc%5Etfw">@mycroorg</a> también presentamos tres póster con los últimos trabajos realizados en el grupo 🧫🔬🧬 ¡Grandes trabajos chicas! 👩‍🔬👩‍🔬👩‍🔬 <a href="https://twitter.com/nuria_gcs?ref_src=twsrc%5Etfw">@nuria_gcs</a> <a href="https://twitter.com/SilviaRguez?ref_src=twsrc%5Etfw">@SilviaRguez</a> <a href="https://twitter.com/ClaraMelguizo_?ref_src=twsrc%5Etfw">@ClaraMelguizo_</a> 👏🏻 <a href="https://t.co/UytojmOqs8">pic.twitter.com/UytojmOqs8</a></p>&mdash; MYCROORG (@mycroorg) <a href="https://twitter.com/mycroorg/status/1842471135918571833?ref_src=twsrc%5Etfw">October 5, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Hoy nos hemos acercado al Bosque de los Deseos y ¡¡no podíamos pedir otra cosa!! 🤩 Desde <a href="https://twitter.com/mycroorg?ref_src=twsrc%5Etfw">@mycroorg</a> os deseamos unas muy felices fiestas 🎄 <a href="https://t.co/H54tdPXbsQ">pic.twitter.com/H54tdPXbsQ</a></p>&mdash; MYCROORG (@mycroorg) <a href="https://twitter.com/mycroorg/status/1870094718152929582?ref_src=twsrc%5Etfw">December 20, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 {% endcapture %}
 
 {%
   include cols.html
-  col1=tweet1
-  col2=tweet2
-  col3=tweet3
+  col1=tweet3
+  col2=tweet1
+  col3=tweet2
 %}
