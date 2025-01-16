@@ -19,7 +19,7 @@ links:
   researchgate: Sergio-Alias-Segura
   google-scholar: cbMisY4AAAAJ
   linkedin: sergioaliaseg
-  twitter: saliscript
+  twitter: seraliseg
 ---
 
 {%
