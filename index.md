@@ -210,7 +210,7 @@ We are a dynamic group of researchers, ranging from enthusiastic students to exp
 
 {% capture tweet2 %}
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Y como colofón final a la Reunión de la Red Micofood, nuestro <a href="https://twitter.com/saliscript?ref_src=twsrc%5Etfw">@saliscript</a> ha ganado el premio a la mejor comunicación oral ¡y es su primer congreso! 👏🏻🥇👏🏻 ¡Esto si que es entrar en el mundo científico por todo lo alto Sergio! <br>El pack bioinformatica-hongos mola 🧬😎💻 <a href="https://t.co/eOcQBIPURS">https://t.co/eOcQBIPURS</a> <a href="https://t.co/Mdu0pILb8m">pic.twitter.com/Mdu0pILb8m</a></p>&mdash; MYCROORG (@mycroorg) <a href="https://twitter.com/mycroorg/status/1842472259056816571?ref_src=twsrc%5Etfw">October 5, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Orgullosímas de nuestras chicas, Marta Sánchez y Laura Rodríguez por su participación en el Congreso de estudiantes de ⁦<a href="https://twitter.com/unicomplutense?ref_src=twsrc%5Etfw">@unicomplutense</a>⁩ 👏🏻 Han participado con resultados de sus TFG y ambas han ganado el premio a las mejores comunicaciones orales ¡Vaya fichajes! 🏆🫶🏻🥇 <a href="https://t.co/A4Awmym64F">pic.twitter.com/A4Awmym64F</a></p>&mdash; MYCROORG (@mycroorg) <a href="https://twitter.com/mycroorg/status/1908496601380794828?ref_src=twsrc%5Etfw">April 5, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 {% endcapture %}
 
@@ -222,7 +222,7 @@ We are a dynamic group of researchers, ranging from enthusiastic students to exp
 
 {%
   include cols.html
-  col1=tweet3
-  col2=tweet1
-  col3=tweet2
+  col1=tweet2
+  col2=tweet3
+  col3=tweet1
 %}
