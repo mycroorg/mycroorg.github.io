@@ -208,7 +208,7 @@ We are a dynamic group of researchers, ranging from enthusiastic students to exp
 
 {% capture tweet2 %}
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Orgullosímas de nuestras chicas, Marta Sánchez y Laura Rodríguez por su participación en el Congreso de estudiantes de ⁦<a href="https://twitter.com/unicomplutense?ref_src=twsrc%5Etfw">@unicomplutense</a>⁩ 👏🏻 Han participado con resultados de sus TFG y ambas han ganado el premio a las mejores comunicaciones orales ¡Vaya fichajes! 🏆🫶🏻🥇 <a href="https://t.co/A4Awmym64F">pic.twitter.com/A4Awmym64F</a></p>&mdash; MYCROORG (@mycroorg) <a href="https://twitter.com/mycroorg/status/1908496601380794828?ref_src=twsrc%5Etfw">April 5, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Y como colofón final al “World Mycotoxin Forum”, <a href="https://twitter.com/Marielaar9?ref_src=twsrc%5Etfw">@Marielaar9</a> recogió el premio Naresh Magan otorgado por la <a href="https://twitter.com/ISM_Society?ref_src=twsrc%5Etfw">@ISM_Society</a> 👏🏻👏🏻 ¡Enhorabuena Mariela! Súper orgullosas de ti 😍 <a href="https://t.co/gdMhdIpffm">pic.twitter.com/gdMhdIpffm</a></p>&mdash; MYCROORG (@mycroorg) <a href="https://twitter.com/mycroorg/status/1910230869643510048?ref_src=twsrc%5Etfw">April 10, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 {% endcapture %}
 
@@ -220,7 +220,7 @@ We are a dynamic group of researchers, ranging from enthusiastic students to exp
 
 {%
   include cols.html
-  col1=tweet3
-  col2=tweet1
-  col3=tweet2
+  col1=tweet2
+  col2=tweet3
+  col3=tweet1
 %}
