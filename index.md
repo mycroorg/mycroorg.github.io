@@ -202,7 +202,7 @@ We are a dynamic group of researchers, ranging from enthusiastic students to exp
 
 {% capture tweet1 %}
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Un año más compartiendo el trabajo de <a href="https://twitter.com/mycroorg?ref_src=twsrc%5Etfw">@mycroorg</a> en el World Mycotoxin Forum 🧑‍🔬👩‍🔬 Esta vez estamos en Salzburgo con dos charlas y dos póster y ¡cogiendo nuevas ideas para nuevos proyectos! 👏🏻👏🏻 <a href="https://t.co/A2Va5QY9TC">pic.twitter.com/A2Va5QY9TC</a></p>&mdash; MYCROORG (@mycroorg) <a href="https://twitter.com/mycroorg/status/1909349927399895477?ref_src=twsrc%5Etfw">April 7, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">¿Quieres saber qué hacemos en <a href="https://twitter.com/mycroorg?ref_src=twsrc%5Etfw">@mycroorg</a>? ¡No te pierdas nuestros vídeos! 📽️<br>Comenzamos con <a href="https://twitter.com/seraliseg?ref_src=twsrc%5Etfw">@seraliseg</a> que explica cómo abordamos uno de los objetivos de su tesis para caracterizar las especies del género &quot;Fusarium&quot; en cereales 🌾🧫🌽 <a href="https://twitter.com/hashtag/bioinform%C3%A1tica?src=hash&amp;ref_src=twsrc%5Etfw">#bioinformática</a> <a href="https://twitter.com/hashtag/micotoxinas?src=hash&amp;ref_src=twsrc%5Etfw">#micotoxinas</a> <a href="https://twitter.com/hashtag/mycroorgmola?src=hash&amp;ref_src=twsrc%5Etfw">#mycroorgmola</a> <a href="https://t.co/1swee4PNds">pic.twitter.com/1swee4PNds</a></p>&mdash; MYCROORG (@mycroorg) <a href="https://twitter.com/mycroorg/status/1917475089026633735?ref_src=twsrc%5Etfw">April 30, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 {% endcapture %}
 
@@ -214,13 +214,13 @@ We are a dynamic group of researchers, ranging from enthusiastic students to exp
 
 {% capture tweet3 %}
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Hoy <a href="https://twitter.com/SilviaRguez?ref_src=twsrc%5Etfw">@SilviaRguez</a> ha presentado fenomenal en el WMF una colaboración entre <a href="https://twitter.com/mycroorg?ref_src=twsrc%5Etfw">@mycroorg</a> y <a href="https://twitter.com/aspergilluslab?ref_src=twsrc%5Etfw">@aspergilluslab</a> para estudiar la regulación del cluster de biosíntesis de ocratoxina A utilizando el hongo “Aspergillus nidulans” 🧬🧫 ¡Qué de alegrías nos están dando estos estudios! 😊 <a href="https://t.co/bOxrI7rqaG">pic.twitter.com/bOxrI7rqaG</a></p>&mdash; MYCROORG (@mycroorg) <a href="https://twitter.com/mycroorg/status/1909654415197270162?ref_src=twsrc%5Etfw">April 8, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">En <a href="https://twitter.com/mycroorg?ref_src=twsrc%5Etfw">@mycroorg</a> estudiamos las micotoxinas y sus hongos productores desde muchas perspectivas 👩‍🔬 En este segundo vídeo <a href="https://twitter.com/cerenaortega?ref_src=twsrc%5Etfw">@cerenaortega</a> cuenta cómo analizamos la presencia de micotoxinas en suelo y por qué es importante hacerlo🌾¡Síguenos para no perderte nuestros vídeos! <a href="https://twitter.com/hashtag/mycroorgmola?src=hash&amp;ref_src=twsrc%5Etfw">#mycroorgmola</a> <a href="https://t.co/y8B6vMGJ2d">pic.twitter.com/y8B6vMGJ2d</a></p>&mdash; MYCROORG (@mycroorg) <a href="https://twitter.com/mycroorg/status/1920497983868616920?ref_src=twsrc%5Etfw">May 8, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 {% endcapture %}
 
 {%
   include cols.html
-  col1=tweet2
-  col2=tweet3
-  col3=tweet1
+  col1=tweet3
+  col2=tweet1
+  col3=tweet2
 %}
