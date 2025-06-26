@@ -202,13 +202,13 @@ We are a dynamic group of researchers, ranging from enthusiastic students to exp
 
 {% capture tweet1 %}
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Estos días hemos asistido al 46 Workshop de la Society for Mycotoxin Research en Martina Franca 🇮🇹 Ha sido genial compartir nuestro trabajo y escuchar estupendas charlas👩‍🔬🤓🧑‍🔬 Los riesgos asociados a las micotoxinas están cambiando y ahí estará <a href="https://twitter.com/mycroorg?ref_src=twsrc%5Etfw">@mycroorg</a> para solucionarlos 💪🏻 <a href="https://t.co/ywgGc4EIZ9">pic.twitter.com/ywgGc4EIZ9</a></p>&mdash; MYCROORG (@mycroorg) <a href="https://twitter.com/mycroorg/status/1928024556901421509?ref_src=twsrc%5Etfw">May 29, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">¿Echabais de menos nuestros vídeos? 🤗 Pues hoy nuestra corresponsal en Estados Unidos <a href="https://twitter.com/ClaraMelguizo_?ref_src=twsrc%5Etfw">@ClaraMelguizo_</a> os cuenta como vamos a hacer estudios de incidencia de hongos toxígenos utilizando la novedosa técnica de PCR digital 🌽🧬🌾 <a href="https://twitter.com/hashtag/microorgmola?src=hash&amp;ref_src=twsrc%5Etfw">#microorgmola</a> <a href="https://t.co/uno7G3CsOY">pic.twitter.com/uno7G3CsOY</a></p>&mdash; MYCROORG (@mycroorg) <a href="https://twitter.com/mycroorg/status/1938127477840253278?ref_src=twsrc%5Etfw">June 26, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 {% endcapture %}
 
 {% capture tweet2 %}
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Otro de los objetivos de <a href="https://twitter.com/mycroorg?ref_src=twsrc%5Etfw">@mycroorg</a> es buscar métodos sostenibles para controlar los hongos toxígenos en los cultivos 🧑‍🌾En este vídeo, <a href="https://twitter.com/Marta_slv15?ref_src=twsrc%5Etfw">@Marta_slv15</a> nos explica como podemos usar &quot;Bacillus mycoides&quot; como agente de control biológico en el suelo 🧫 <a href="https://twitter.com/hashtag/mycroorgmola?src=hash&amp;ref_src=twsrc%5Etfw">#mycroorgmola</a> <a href="https://t.co/fAK3A4pN5M">pic.twitter.com/fAK3A4pN5M</a></p>&mdash; MYCROORG (@mycroorg) <a href="https://twitter.com/mycroorg/status/1922275531782840443?ref_src=twsrc%5Etfw">May 13, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Nuevo vídeo para amenizar vuestra semana 😊 Hoy, Javier Romero nos explica cómo hacemos los ensayos para saber si una levadura es capaz de eliminar micotoxinas 🦠☢️ Aprovechamos este post para desearle todo lo mejor en su nueva etapa de TFM 🇪🇸👨‍🎓🇳🇱 ¡No te olvides de <a href="https://twitter.com/mycroorg?ref_src=twsrc%5Etfw">@mycroorg</a>! 🤗 <a href="https://t.co/QzZMEG2PJp">pic.twitter.com/QzZMEG2PJp</a></p>&mdash; MYCROORG (@mycroorg) <a href="https://twitter.com/mycroorg/status/1932328332978217246?ref_src=twsrc%5Etfw">June 10, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 {% endcapture %}
 
@@ -220,7 +220,7 @@ We are a dynamic group of researchers, ranging from enthusiastic students to exp
 
 {%
   include cols.html
-  col1=tweet3
-  col2=tweet1
-  col3=tweet2
+  col1=tweet1
+  col2=tweet2
+  col3=tweet3
 %}
