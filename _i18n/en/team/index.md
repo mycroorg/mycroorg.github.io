@@ -85,6 +85,7 @@ MYCROORG is also formed by BSc and MSc students, lab technicians, trainees and m
 {% capture col3 %}
 #### {% include icon.html icon="fa-solid fa-users" %}More past members
 
+- Sofía Almodóvar Montero
 - Paula Hernández
 {% endcapture %}
 

@@ -86,6 +86,7 @@ MYCROORG también está formado por estudiantes de Grado, Máster, técnicos de 
 {% capture col3 %}
 #### {% include icon.html icon="fa-solid fa-users" %}Otros integrantes previos
 
+- Sofía Almodóvar Montero
 - Paula Hernández
 {% endcapture %}
 
