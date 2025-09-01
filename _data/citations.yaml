@@ -1047,6 +1047,19 @@
   orcid: 0000-0001-8568-9270
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1128/mra.00519-25
+  title: "Genome annotation of\n            <i>Aspergillus melleus</i>\n         \
+    \   strain CBS 546.65"
+  authors:
+  - Jason E. Stajich
+  - Sean M. Garvey
+  - "J\xE9ssica Gil-Serna"
+  publisher: Microbiology Resource Announcements
+  date: '2025-08-25'
+  link: https://doi.org/g9zrfk
+  orcid: 0000-0002-2113-1830
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.cofs.2024.101213
   title: The relevance of genomics in food mycology with a focus on food safety
   authors:
