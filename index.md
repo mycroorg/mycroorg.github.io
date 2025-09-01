@@ -208,19 +208,19 @@ We are a dynamic group of researchers, ranging from enthusiastic students to exp
 
 {% capture tweet2 %}
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Nuevo vídeo para amenizar vuestra semana 😊 Hoy, Javier Romero nos explica cómo hacemos los ensayos para saber si una levadura es capaz de eliminar micotoxinas 🦠☢️ Aprovechamos este post para desearle todo lo mejor en su nueva etapa de TFM 🇪🇸👨‍🎓🇳🇱 ¡No te olvides de <a href="https://twitter.com/mycroorg?ref_src=twsrc%5Etfw">@mycroorg</a>! 🤗 <a href="https://t.co/QzZMEG2PJp">pic.twitter.com/QzZMEG2PJp</a></p>&mdash; MYCROORG (@mycroorg) <a href="https://twitter.com/mycroorg/status/1932328332978217246?ref_src=twsrc%5Etfw">June 10, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">En <a href="https://twitter.com/mycroorg?ref_src=twsrc%5Etfw">@mycroorg</a> tenemos muy buenas noticias🥳🥳 Acabamos de publicar este artículo, primero de la tesis de <a href="https://twitter.com/seraliseg?ref_src=twsrc%5Etfw">@seraliseg</a> en el que hemos analizado la influencia en la microbiota del manejo del suelo de campos de cereal español🌾. Esperamos vuestros comentarios! <a href="https://t.co/jSDhzpuUfF">https://t.co/jSDhzpuUfF</a> <a href="https://t.co/JiZFTVrx5H">pic.twitter.com/JiZFTVrx5H</a></p>&mdash; MYCROORG (@mycroorg) <a href="https://twitter.com/mycroorg/status/1951934644351295768?ref_src=twsrc%5Etfw">August 3, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 {% endcapture %}
 
 {% capture tweet3 %}
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">¿Qué mejor manera de empezar el finde que con un nuevo vídeo <a href="https://twitter.com/mycroorg?ref_src=twsrc%5Etfw">@mycroorg</a>? 😉 Hoy, Laura Rodríguez nos explica como ha estudiado en su TFG el efecto de los fenoles de las uvas sobre el crecimiento y la producción de aflatoxina B1 en &quot;Aspergillus flavus&quot; 🍇🧫🍇 <a href="https://twitter.com/hashtag/mycroorgmola?src=hash&amp;ref_src=twsrc%5Etfw">#mycroorgmola</a> <a href="https://t.co/tRqgx30EMs">pic.twitter.com/tRqgx30EMs</a></p>&mdash; MYCROORG (@mycroorg) <a href="https://twitter.com/mycroorg/status/1928748104745902409?ref_src=twsrc%5Etfw">May 31, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Muchas gracias <a href="https://twitter.com/ucc_complutense?ref_src=twsrc%5Etfw">@ucc_complutense</a> por difundir nuestra última publicación 😊 Hemos visto que los suelos con manejo ecológico no son más diversos que los convencionales y no hay diferencia en la incidencia de hongos toxígenos 😯 Aquí la nota de prensa 📰➡️ <a href="https://t.co/ofTDuw8iRQ">https://t.co/ofTDuw8iRQ</a> <a href="https://t.co/PZDEC1yjQq">pic.twitter.com/PZDEC1yjQq</a></p>&mdash; MYCROORG (@mycroorg) <a href="https://twitter.com/mycroorg/status/1955688502819012848?ref_src=twsrc%5Etfw">August 13, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 {% endcapture %}
 
 {%
   include cols.html
-  col1=tweet1
+  col1=tweet3
   col2=tweet2
-  col3=tweet3
+  col3=tweet1
 %}
