@@ -1,5 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.3390/toxins17100487
+  title: Toxigenic Aspergillus Diversity and Mycotoxins in Organic Spanish Grape Berries
+  authors:
+  - Clara Melguizo
+  - Andrea Tarazona
+  - "J\xE9ssica Gil-Serna"
+  - Fernando Mateo
+  - "Bel\xE9n Pati\xF1o"
+  - "Eva Mar\xEDa Mateo"
+  publisher: Toxins
+  date: '2025-09-30'
+  link: https://doi.org/g95492
+  orcid: 0000-0002-2113-1830
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3390/agriculture13101998
   title: Reconsidering the Co-Occurrence of Aspergillus flavus in Spanish Vineyards
     and Aflatoxins in Grapes
@@ -1045,6 +1060,19 @@
   date: '1993-06-01'
   link: https://doi.org/c6dcf2
   orcid: 0000-0001-8568-9270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.apsoil.2025.106355
+  title: Metataxonomic analysis reveals that the farming system has minimal effect
+    on soil microbiome variation in cereal fields
+  authors:
+  - "Sergio Al\xEDas-Segura"
+  - "J\xE9ssica Gil-Serna"
+  - "Bel\xE9n Pati\xF1o"
+  publisher: Applied Soil Ecology
+  date: '2025-10-01'
+  link: https://doi.org/g95493
+  orcid: 0000-0002-2113-1830
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/mra.00519-25
