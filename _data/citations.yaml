@@ -13,8 +13,16 @@
   date: '2025-09-30'
   link: https://doi.org/g95492
   orcid: 0000-0002-2113-1830
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: article
+  description: This work describes a significant shift in the landscape of mycotoxin-producing
+    fungi across Spanish vineyards, possibly driven by fluctuating temperatures and
+    weather patterns.
+  image: https://pub.mdpi-res.com/toxins/toxins-17-00487/article_deploy/html/images/toxins-17-00487-ag.png?1760085434
+  tags:
+  - Aspergillus
+  - grapes
 - id: doi:10.3390/agriculture13101998
   title: Reconsidering the Co-Occurrence of Aspergillus flavus in Spanish Vineyards
     and Aflatoxins in Grapes
@@ -1073,8 +1081,9 @@
   date: '2025-08-25'
   link: https://doi.org/g9zrfk
   orcid: 0000-0002-2113-1830
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://journals.asm.org/cms/10.1128/mra.00519-25/asset/065ffcc5-c577-4882-8621-2334ca254b9f/assets/images/large/mra.00519-25.f001.jpg
 - id: doi:10.1016/j.apsoil.2025.106355
   title: Metataxonomic analysis reveals that the farming system has minimal effect
     on soil microbiome variation in cereal fields
@@ -1086,8 +1095,17 @@
   date: '2025-10-01'
   link: https://doi.org/g95493
   orcid: 0000-0002-2113-1830
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: article
+  description: This work uses metataxonomics to investigate potential variations in
+    fungal and bacterial community diversity between organic and conventional farming
+    systems in cereal fields, with a focus on toxigenic fungi.
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0929139325004937-gr2_lrg.jpg
+  tags:
+  - metataxonomics
+  - cereal
+  - soil
 - id: doi:10.1016/j.cofs.2024.101213
   title: The relevance of genomics in food mycology with a focus on food safety
   authors:
