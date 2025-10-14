@@ -1062,19 +1062,6 @@
   orcid: 0000-0001-8568-9270
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.apsoil.2025.106355
-  title: Metataxonomic analysis reveals that the farming system has minimal effect
-    on soil microbiome variation in cereal fields
-  authors:
-  - "Sergio Al\xEDas-Segura"
-  - "J\xE9ssica Gil-Serna"
-  - "Bel\xE9n Pati\xF1o"
-  publisher: Applied Soil Ecology
-  date: '2025-10-01'
-  link: https://doi.org/g95493
-  orcid: 0000-0002-2113-1830
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1128/mra.00519-25
   title: "Genome annotation of\n            <i>Aspergillus melleus</i>\n         \
     \   strain CBS 546.65"
@@ -1085,6 +1072,19 @@
   publisher: Microbiology Resource Announcements
   date: '2025-08-25'
   link: https://doi.org/g9zrfk
+  orcid: 0000-0002-2113-1830
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.apsoil.2025.106355
+  title: Metataxonomic analysis reveals that the farming system has minimal effect
+    on soil microbiome variation in cereal fields
+  authors:
+  - "Sergio Al\xEDas-Segura"
+  - "J\xE9ssica Gil-Serna"
+  - "Bel\xE9n Pati\xF1o"
+  publisher: Applied Soil Ecology
+  date: '2025-10-01'
+  link: https://doi.org/g95493
   orcid: 0000-0002-2113-1830
   plugin: orcid.py
   file: orcid.yaml
