@@ -1,3 +1,25 @@
+- id: doi:10.1016/j.apsoil.2025.106355
+  type: article
+  description: This work uses metataxonomics to investigate potential variations in fungal and bacterial community diversity between organic and conventional farming systems in cereal fields, with a focus on toxigenic fungi.
+  date: 2025-10-01
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0929139325004937-gr2_lrg.jpg
+  tags:
+    - metataxonomics
+    - cereal
+    - soil
+
+- id: doi:10.3390/toxins17100487
+  type: article
+  description: This work describes a significant shift in the landscape of mycotoxin-producing fungi across Spanish vineyards, possibly driven by fluctuating temperatures and weather patterns. 
+  date: 2025-09-30
+  image: https://pub.mdpi-res.com/toxins/toxins-17-00487/article_deploy/html/images/toxins-17-00487-ag.png?1760085434
+  tags:
+    - Aspergillus
+    - grapes
+
+- id: doi:10.1128/mra.00519-25
+  image: https://journals.asm.org/cms/10.1128/mra.00519-25/asset/065ffcc5-c577-4882-8621-2334ca254b9f/assets/images/large/mra.00519-25.f001.jpg
+
 - id: doi:10.1016/j.cofs.2024.101213
   type: article
   description: This review presents the potential uses and limitations of genomics in food mycology studies and its applications in the field. 
