@@ -28,6 +28,10 @@ MYCROORG is also formed by BSc and MSc students, lab technicians, trainees and m
 {% capture col1 %}
 #### {% include icon.html icon="fa-solid fa-book" %}BSc thesis
 
+###### 25/26
+- Nadia Cleto Malle
+- María Concepción Vallina La Haba
+
 ###### 24/25
 - Marta Sánchez López-Varela
 - Laura Rodríguez Cerrajero
@@ -56,6 +60,9 @@ MYCROORG is also formed by BSc and MSc students, lab technicians, trainees and m
 
 {% capture col2 %}
 #### {% include icon.html icon="fa-solid fa-building-columns" %}MSc thesis
+
+###### 25/26
+- Marta Sánchez López-Varela
 
 ###### 23/24
 - Tomás Sierra Gil
