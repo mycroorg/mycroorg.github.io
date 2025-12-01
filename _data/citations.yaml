@@ -563,7 +563,7 @@
   - "Ma Teresa Gonz\xE1lez-Ja\xE9n"
   - "Bel\xE9n Pati\xF1o"
   publisher: International Journal of Food Microbiology
-  date: '2011-01-31'
+  date: '2011-01-01'
   link: https://doi.org/b45k46
   orcid: 0000-0002-2113-1830
   plugin: orcid.py
@@ -691,7 +691,7 @@
   authors:
   - "J\xE9ssica Gil-Serna"
   - "Amaia Gonz\xE1lez-Salgado"
-  - "M Teresa Gonz\xE1lez-Ja\xE9n"
+  - "Ma Teresa Gonz\xE1lez-Ja\xE9n"
   - "Covadonga V\xE1zquez"
   - "Bel\xE9n Pati\xF1o"
   publisher: International Journal of Food Microbiology
@@ -817,7 +817,7 @@
   authors:
   - "Bel\xE9n Pati\xF1o"
   - "Amaia Gonz\xE1lez-Salgado"
-  - "M Teresa Gonz\xE1lez-Ja\xE9n"
+  - "Ma Teresa Gonz\xE1lez-Ja\xE9n"
   - "Covadonga V\xE1zquez"
   publisher: International Journal of Food Microbiology
   date: '2005-10-01'
@@ -950,11 +950,17 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/S0168-1605(03)00150-8
-  title: Fumonisin production by Gibberella fujikuroi strains fromPinus species
+  title: Fumonisin production by Gibberella fujikuroi strains from Pinus species
   authors:
-  - S Mirete
+  - S. Mirete
+  - "B. Pati\xF1o"
+  - "C. V\xE1zquez"
+  - "M. Jim\xE9nez"
+  - M.J. Hinojo
+  - C. Soldevilla
+  - "M.T. Gonz\xE1lez-Ja\xE9n"
   publisher: International Journal of Food Microbiology
-  date: '2003-12-31'
+  date: '2003-12-01'
   link: https://doi.org/dn9td4
   orcid: 0000-0001-8568-9270
   plugin: orcid.py
@@ -1100,7 +1106,7 @@
   - Sean M. Garvey
   - "J\xE9ssica Gil-Serna"
   publisher: Microbiology Resource Announcements
-  date: '2025-08-25'
+  date: '2025-10-09'
   link: https://doi.org/g9zrfk
   orcid: 0000-0002-2113-1830
   plugin: sources.py
