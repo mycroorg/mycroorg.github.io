@@ -1,8 +1,18 @@
+- id: doi:10.3390/foods14244181
+  type: article
+  description: This work confirms Pichia fermentans KCB21_L2 as a promising biological agent for effectively eliminating multiple mycotoxins via a multifactorial mechanism.
+  date: 2025-12-05
+  image: https://www.mdpi.com/foods/foods-14-04181/article_deploy/html/images/foods-14-04181-g003.png
+  tags:
+    - RNAseq
+    - yeasts
+    - adsorption
+
 - id: doi:10.1016/j.apsoil.2025.106355
   type: article
   description: This work uses metataxonomics to investigate potential variations in fungal and bacterial community diversity between organic and conventional farming systems in cereal fields, with a focus on toxigenic fungi.
   date: 2025-10-01
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0929139325004937-gr2_lrg.jpg
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0929139325004937-ga1_lrg.jpg
   tags:
     - metataxonomics
     - cereal
