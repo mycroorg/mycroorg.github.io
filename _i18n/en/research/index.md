@@ -6,7 +6,7 @@ Knowledge grows when it is shared. Here you will find a list of all the articles
 
 ## {% include icon.html icon="fa-solid fa-wand-magic-sparkles" %}Highlighted
 
-{% include citation.html lookup="Metataxonomic analysis reveals that the farming system has minimal effect on soil microbiome variation in cereal fields" style="rich" %}
+{% include citation.html lookup="Mycotoxin Removal and Transcriptional Response of Pichia fermentans KCB21_L2" style="rich" %}
 
 {% include citation.html lookup="Toxigenic Aspergillus Diversity and Mycotoxins in Organic Spanish Grape Berries" style="rich" %}
 
