@@ -1,5 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.3390/foods14244181
+  title: Mycotoxin Removal and Transcriptional Response of Pichia fermentans KCB21_L2
+  authors:
+  - "Carolina G\xF3mez-Albarr\xE1n"
+  - "Silvia Rodr\xEDguez-Pires"
+  - "Alba S\xE1ez-Mat\xEDa"
+  - Carlos Luz
+  - "Bel\xE9n Pati\xF1o"
+  - "J\xE9ssica Gil-Serna"
+  publisher: Foods
+  date: '2025-12-05'
+  link: https://doi.org/hbdt4w
+  orcid: 0000-0002-2113-1830
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.apsoil.2025.106355
   title: Metataxonomic analysis reveals that the farming system has minimal effect
     on soil microbiome variation in cereal fields
