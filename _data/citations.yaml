@@ -621,8 +621,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1080/19440041003645779
-  title: Specific detection of<i>Aspergillus parasiticus</i>in wheat flour using a
-    highly sensitive PCR assay
+  title: "Specific detection of\n                    <i>Aspergillus parasiticus</i>\n\
+    \                    in wheat flour using a highly sensitive PCR assay"
   authors:
   - "Noelia Sardi\xF1as"
   - "Covadonga V\xE1zquez"
@@ -630,7 +630,7 @@
   - "M. Teresa Gonz\xE1lez-Ja\xE9n"
   - "Bel\xE9n Pati\xF1o"
   publisher: 'Food Additives &amp; Contaminants: Part A'
-  date: '2010-06-01'
+  date: '2010-05-18'
   link: https://doi.org/cdzc43
   orcid: 0000-0002-2113-1830
   plugin: orcid.py
@@ -739,15 +739,16 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1080/02652030701765715
-  title: Highly sensitive PCR-based detection method specific for<b><i>Aspergillus
-    flavus</i></b>in wheat flour
+  title: "Highly sensitive PCR-based detection method specific for\n             \
+    \       <b>\n                      <i>Aspergillus flavus</i>\n               \
+    \     </b>\n                    in wheat flour"
   authors:
   - "Amaia Gonz\xE1lez-Salgado"
   - "Teresa Gonz\xE1lez-Ja\xE9n"
   - "Covadonga V\xE1zquez"
   - "Bel\xE9n Pati\xF1o"
   publisher: 'Food Additives &amp; Contaminants: Part A'
-  date: '2008-06-01'
+  date: '2008-05-17'
   link: https://doi.org/dz8whf
   orcid: 0000-0001-8568-9270
   plugin: orcid.py
