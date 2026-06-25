@@ -218,6 +218,12 @@ twitter:
   tooltip: X
   link: https://x.com/$VALUE
 
+bluesky:
+  icon: fa-brands fa-bluesky
+  text: Bluesky
+  tooltip: Bluesky
+  link: https://bsky.app/profile/$VALUE
+
 facebook:
   icon: fa-brands fa-facebook
   text: Facebook

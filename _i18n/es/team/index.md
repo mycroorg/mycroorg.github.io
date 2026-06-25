@@ -1,7 +1,7 @@
 
 # {% include icon.html icon="fa-solid fa-users" %}Equipo
 
-En esta sección encontrarás información sobre los miembros de MYCROORG. Haz click en los perfiles para ver más detalles. 
+Haz click en los perfiles para ver más detalles. 
 
 {% include section.html %}
 
@@ -15,8 +15,6 @@ En esta sección encontrarás información sobre los miembros de MYCROORG. Haz c
 {% include section.html %}
 
 ## {% include icon.html icon="fa-solid fa-timeline" %}Antiguos miembros
-
-Aquí encontrarás a los antiguos miembros de MYCROORG. Actualmente continúan destacando en la academia, la industria y más allá.
 
 {% include list.html data="members" component="portrait" filters="lang: es, alumni: true" %}
 
