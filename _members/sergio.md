@@ -19,6 +19,7 @@ links:
   researchgate: Sergio-Alias-Segura
   google-scholar: cbMisY4AAAAJ
   linkedin: sergioaliaseg
+  bluesky: seraliseg.bsky.social
   twitter: seraliseg
 ---
 

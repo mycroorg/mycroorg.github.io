@@ -2,8 +2,8 @@
 name: Carolina Gómez-Albarrán
 image: images/pfp/pfp_carolina.jpeg
 lang: es
-role: phdesf
-alumni: false
+role: phdfinished
+alumni: true
 aliases:
   - C. Gómez-Albarrán
   - C Gómez-Albarrán
