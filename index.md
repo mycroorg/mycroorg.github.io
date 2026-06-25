@@ -202,25 +202,25 @@ We are a dynamic group of researchers, ranging from enthusiastic students to exp
 
 {% capture tweet1 %}
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">¿Echabais de menos nuestros vídeos? 🤗 Pues hoy nuestra corresponsal en Estados Unidos <a href="https://twitter.com/ClaraMelguizo_?ref_src=twsrc%5Etfw">@ClaraMelguizo_</a> os cuenta como vamos a hacer estudios de incidencia de hongos toxígenos utilizando la novedosa técnica de PCR digital 🌽🧬🌾 <a href="https://twitter.com/hashtag/microorgmola?src=hash&amp;ref_src=twsrc%5Etfw">#microorgmola</a> <a href="https://t.co/uno7G3CsOY">pic.twitter.com/uno7G3CsOY</a></p>&mdash; MYCROORG (@mycroorg) <a href="https://twitter.com/mycroorg/status/1938127477840253278?ref_src=twsrc%5Etfw">June 26, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">¡Tenemos nueva doctora en <a href="https://twitter.com/mycroorg?ref_src=twsrc%5Etfw">@mycroorg</a>! 😊👏 <a href="https://twitter.com/CarolGAlbarran?ref_src=twsrc%5Etfw">@CarolGAlbarran</a> ha defendido su tesis realizada en la <a href="https://twitter.com/unicomplutense?ref_src=twsrc%5Etfw">@unicomplutense</a> en la que ha optimizado métodos de transformación en hongos toxígenos con CRISPR-Cas9 y protocolos de detoxificación de micotoxinas 🧬🧫 ¡Orgullosísimas! 🥰 <a href="https://t.co/O69kD0iRDa">pic.twitter.com/O69kD0iRDa</a></p>&mdash; MYCROORG (@mycroorg) <a href="https://twitter.com/mycroorg/status/2002336432409518093?ref_src=twsrc%5Etfw">December 20, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
 
 {% endcapture %}
 
 {% capture tweet2 %}
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Nuevo vídeo para amenizar vuestra semana 😊 Hoy, Javier Romero nos explica cómo hacemos los ensayos para saber si una levadura es capaz de eliminar micotoxinas 🦠☢️ Aprovechamos este post para desearle todo lo mejor en su nueva etapa de TFM 🇪🇸👨‍🎓🇳🇱 ¡No te olvides de <a href="https://twitter.com/mycroorg?ref_src=twsrc%5Etfw">@mycroorg</a>! 🤗 <a href="https://t.co/QzZMEG2PJp">pic.twitter.com/QzZMEG2PJp</a></p>&mdash; MYCROORG (@mycroorg) <a href="https://twitter.com/mycroorg/status/1932328332978217246?ref_src=twsrc%5Etfw">June 10, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">📢¡Qué con esto de las navidades se nos había olvidado compartir el nuestro último paper! 📢<br>En este trabajo estudiamos cómo una levadura aislada de kéfir es capaz de detoxificar micotoxinas 🦠🥛 Aquí tenéis el artículo en acceso abierto ➡️<a href="https://t.co/07G3AOY904">https://t.co/07G3AOY904</a> <a href="https://twitter.com/Foods_MDPI?ref_src=twsrc%5Etfw">@Foods_MDPI</a> <a href="https://t.co/MyJu0mQmtb">pic.twitter.com/MyJu0mQmtb</a></p>&mdash; MYCROORG (@mycroorg) <a href="https://twitter.com/mycroorg/status/2011688257676050529?ref_src=twsrc%5Etfw">January 15, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 {% endcapture %}
 
 {% capture tweet3 %}
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">¿Qué mejor manera de empezar el finde que con un nuevo vídeo <a href="https://twitter.com/mycroorg?ref_src=twsrc%5Etfw">@mycroorg</a>? 😉 Hoy, Laura Rodríguez nos explica como ha estudiado en su TFG el efecto de los fenoles de las uvas sobre el crecimiento y la producción de aflatoxina B1 en &quot;Aspergillus flavus&quot; 🍇🧫🍇 <a href="https://twitter.com/hashtag/mycroorgmola?src=hash&amp;ref_src=twsrc%5Etfw">#mycroorgmola</a> <a href="https://t.co/tRqgx30EMs">pic.twitter.com/tRqgx30EMs</a></p>&mdash; MYCROORG (@mycroorg) <a href="https://twitter.com/mycroorg/status/1928748104745902409?ref_src=twsrc%5Etfw">May 31, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Ya tenemos de vuelta a <a href="https://twitter.com/ClaraMelguizo_?ref_src=twsrc%5Etfw">@ClaraMelguizo_</a> después de un año increiblemente formativo tanto a nivel científico como personal en el USDA-ARS. Ahora toca terminar los paper y escribir la tesis. Bienvenida de vuelta a casa!!🎉🎉🎉 <a href="https://t.co/llpQg68qCe">https://t.co/llpQg68qCe</a></p>&mdash; MYCROORG (@mycroorg) <a href="https://twitter.com/mycroorg/status/2012077873419730956?ref_src=twsrc%5Etfw">January 16, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 {% endcapture %}
 
 {%
   include cols.html
-  col1=tweet1
+  col1=tweet3
   col2=tweet2
-  col3=tweet3
+  col3=tweet1
 %}

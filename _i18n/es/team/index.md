@@ -27,6 +27,10 @@ MYCROORG también está formado por estudiantes de Grado, Máster, técnicos de 
 {% capture col1 %}
 #### {% include icon.html icon="fa-solid fa-book" %}TFG
 
+###### 25/26
+- Nadia Cleto Malle
+- María Concepción Vallina La Haba
+
 ###### 24/25
 - Marta Sánchez López-Varela
 - Laura Rodríguez Cerrajero
@@ -56,6 +60,9 @@ MYCROORG también está formado por estudiantes de Grado, Máster, técnicos de 
 {% capture col2 %}
 #### {% include icon.html icon="fa-solid fa-building-columns" %}TFM
 
+###### 25/26
+- Marta Sánchez López-Varela
+
 ###### 23/24
 - Tomás Sierra Gil
 - [Nuria García de la Camacha Selgas](/members/es_nuria.html)
@@ -84,6 +91,9 @@ MYCROORG también está formado por estudiantes de Grado, Máster, técnicos de 
 {% capture col3 %}
 #### {% include icon.html icon="fa-solid fa-users" %}Otros integrantes previos
 
+- Andrea Milena Fontalvo Caballero
+- Marta Espinel Colao
+- Sofía Almodóvar Montero
 - Paula Hernández
 {% endcapture %}
 
