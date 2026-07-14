@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1007/s00248-026-02833-z
+  title: Metabarcoding Characterization of Fungal Communities in Spanish Cereals with
+    a Special Focus on Fusarium Species
+  authors:
+  - "Sergio Al\xEDas-Segura"
+  - "Bel\xE9n Pati\xF1o"
+  - "J\xE9ssica Gil-Serna"
+  publisher: Microbial Ecology
+  date: '2026-07-11'
+  link: https://doi.org/hb998p
+  orcid: 0000-0002-2113-1830
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3390/foods14244181
   title: Mycotoxin Removal and Transcriptional Response of Pichia fermentans KCB21_L2
   authors:
