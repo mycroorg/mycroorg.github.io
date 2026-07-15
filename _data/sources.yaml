@@ -1,3 +1,13 @@
+- id: doi:10.1007/s00248-026-02833-z
+  type: article
+  description: In this work, we analyzed Spanish cereal grains using ITS2 and TEF1, confirming key toxigenic species (F. langsethiae/graminearum) and others often overlooked by traditional methods.
+  date: 2026-07-11
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00248-026-02833-z/MediaObjects/248_2026_2833_Figa_HTML.png?as=webp
+  tags:
+    - metatabarcoding
+    - cereal
+    - grain
+
 - id: doi:10.3390/foods14244181
   type: article
   description: This work confirms Pichia fermentans KCB21_L2 as a promising biological agent for effectively eliminating multiple mycotoxins via a multifactorial mechanism.
@@ -14,7 +24,7 @@
   date: 2025-10-01
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0929139325004937-ga1_lrg.jpg
   tags:
-    - metataxonomics
+    - metatabarcoding
     - cereal
     - soil
 
@@ -48,6 +58,8 @@
 
 - id: doi:10.3390/toxins14090592
   image: https://pub.mdpi-res.com/toxins/toxins-14-00592/article_deploy/html/images/toxins-14-00592-g003.png?1684152231
+  tags:
+    - metabarcoding
 
 - id: doi:10.3390/toxins13110780
   image: https://pub.mdpi-res.com/toxins/toxins-13-00780/article_deploy/html/images/toxins-13-00780-g001.png?1636085013
