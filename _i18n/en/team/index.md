@@ -6,10 +6,11 @@ Click on the profiles to see more details.
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi, lang: en, alumni: false" %}
-{% include list.html data="members" component="portrait" filters="role: fp: lang: en, alumni: false" %}
+{% include list.html data="members" component="portrait" filters="role: fp, lang: en, alumni: false" %}
 {% include list.html data="members" component="portrait" filters="role: assprof: lang: en, alumni: false" %}
 {% include list.html data="members" component="portrait" filters="role: postdoc: lang: en, alumni: false" %}
 {% include list.html data="members" component="portrait" filters="role: phd, lang: en, alumni: false" %}
+{% include list.html data="members" component="portrait" filters="role: rass, lang: en, alumni: false" %}
 
 {% include section.html %}
 

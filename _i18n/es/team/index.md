@@ -10,6 +10,7 @@ Haz click en los perfiles para ver más detalles.
 {% include list.html data="members" component="portrait" filters="role: ayudoctor, lang: es,  alumni: false" %}
 {% include list.html data="members" component="portrait" filters="role: ^(pdesf|pdesm)$, lang: es,  alumni: false" %}
 {% include list.html data="members" component="portrait" filters="role: ^(phdesf|phdesm)$, lang: es,  alumni: false" %}
+{% include list.html data="members" component="portrait" filters="role: gj, lang: es,  alumni: false" %}
 
 
 {% include section.html %}

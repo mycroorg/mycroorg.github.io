@@ -2,7 +2,7 @@
 name: Nuria García de la Camacha Selgas
 image: images/pfp/pfp_nuria.jpg
 lang: en
-role: phd
+role: rass
 alumni: false
 aliases:
   - N. García de la Camacha Selgas
