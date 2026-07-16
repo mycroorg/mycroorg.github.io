@@ -46,6 +46,14 @@ phdesm:
   icon: fa-solid fa-graduation-cap
   description: Investigador Predoctoral
 
+gj:
+  icon: fa-solid fa-vial
+  description: Garantía Juvenil
+
+rass:
+  icon: fa-solid fa-vial
+  description: Research Assistant
+
 phdfinished:
   icon: fa-solid fa-graduation-cap
   description: PhD
