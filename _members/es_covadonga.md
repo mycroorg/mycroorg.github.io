@@ -3,7 +3,7 @@ name: Covadonga Vázquez
 image: images/pfp/pfp_covadonga.jpg
 lang: es
 role: ip
-alumni: false
+alumni: true
 # affiliation: Complutense University of Madrid
 aliases:
   - C. Vázquez
