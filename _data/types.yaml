@@ -256,6 +256,12 @@ linkedin:
   tooltip: LinkedIn
   link: https://www.linkedin.com/in/$VALUE
 
+linkedincompany:
+  icon: fa-brands fa-linkedin
+  text: LinkedIn
+  tooltip: LinkedIn
+  link: https://www.linkedin.com/company/$VALUE
+
 researchgate:
   icon: fa-brands fa-researchgate
   text: ResearchGate
