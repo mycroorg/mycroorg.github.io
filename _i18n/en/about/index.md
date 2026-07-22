@@ -26,6 +26,8 @@ The group has published a large number of papers covering both genetic and biolo
 
 - [MYCROORG at X (Twitter)](https://x.com/mycroorg)
 
+- [MYCROORG at LinkedIn](https://www.linkedin.com/company/hongos-productores-de-micotoxinas-ucm)
+
 - [MYCROORG at SEM@foro](https://www.semicrobiologia.org/wp-content/uploads/2023/07/5l.-Especial-Microbiologia-de-los-Alimentos.-@mycoorg-trabajando-para-conseguir-alimentos-libres-de-micotoxinas.-SEM_75_web.pdf)
 
 - [MYCROORG at the UCM webpage](https://www.ucm.es/hongos-y-levaduras)
