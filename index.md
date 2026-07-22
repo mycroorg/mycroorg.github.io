@@ -202,7 +202,7 @@ We are a dynamic group of researchers, ranging from enthusiastic students to exp
 
 {% capture tweet1 %}
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">¡Tenemos nueva doctora en <a href="https://twitter.com/mycroorg?ref_src=twsrc%5Etfw">@mycroorg</a>! 😊👏 <a href="https://twitter.com/CarolGAlbarran?ref_src=twsrc%5Etfw">@CarolGAlbarran</a> ha defendido su tesis realizada en la <a href="https://twitter.com/unicomplutense?ref_src=twsrc%5Etfw">@unicomplutense</a> en la que ha optimizado métodos de transformación en hongos toxígenos con CRISPR-Cas9 y protocolos de detoxificación de micotoxinas 🧬🧫 ¡Orgullosísimas! 🥰 <a href="https://t.co/O69kD0iRDa">pic.twitter.com/O69kD0iRDa</a></p>&mdash; MYCROORG (@mycroorg) <a href="https://twitter.com/mycroorg/status/2002336432409518093?ref_src=twsrc%5Etfw">December 20, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">En <a href="https://x.com/mycroorg?ref_src=twsrc%5Etfw">@mycroorg</a> estamos muy contentos con este nuevo paper de nuestro doctorando <a href="https://x.com/seraliseg?ref_src=twsrc%5Etfw">@seraliseg</a> 🎉🎉🎉. Queréis caracterizar la diversidad de especies de Fusarium por metataxonomica? Este es vuestro paper. 👀 La ITS no tiene resolución suficiente, pero el EF si. 😀🌾🌾🌾 <a href="https://t.co/CZkkg4gsCR">https://t.co/CZkkg4gsCR</a></p>&mdash; MYCROORG (@mycroorg) <a href="https://x.com/mycroorg/status/2079629067574198283?ref_src=twsrc%5Etfw">July 21, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script> 
 
 {% endcapture %}
 
@@ -220,7 +220,7 @@ We are a dynamic group of researchers, ranging from enthusiastic students to exp
 
 {%
   include cols.html
-  col1=tweet3
-  col2=tweet2
-  col3=tweet1
+  col1=tweet1
+  col2=tweet3
+  col3=tweet2
 %}
